@@ -1,0 +1,6338 @@
+[
+    {
+        "name": "Random",
+        "id": "CID_Random"
+    },
+    {
+        "name": "Recon Raider",
+        "id": "CID_A_272_Athena_Commando_F_Prime"
+    },
+    {
+        "name": "Siege Sergeant",
+        "id": "CID_A_283_Athena_Commando_M_Prime_E"
+    },
+    {
+        "name": "Battalion Brawler",
+        "id": "CID_A_279_Athena_Commando_M_Prime"
+    },
+    {
+        "name": "Squad Leader",
+        "id": "CID_A_276_Athena_Commando_F_Prime_E"
+    },
+    {
+        "name": "Cavalry Captain",
+        "id": "CID_A_284_Athena_Commando_M_Prime_F"
+    },
+    {
+        "name": "Stealth Specialist",
+        "id": "CID_A_280_Athena_Commando_M_Prime_B"
+    },
+    {
+        "name": "Munitions Master",
+        "id": "CID_A_282_Athena_Commando_M_Prime_D"
+    },
+    {
+        "name": "Sentry Specialist",
+        "id": "CID_A_273_Athena_Commando_F_Prime_B"
+    },
+    {
+        "name": "Field Commander",
+        "id": "CID_A_281_Athena_Commando_M_Prime_C"
+    },
+    {
+        "name": "Ballistics Tech",
+        "id": "CID_A_277_Athena_Commando_F_Prime_F"
+    },
+    {
+        "name": "Infantry Commander",
+        "id": "CID_A_275_Athena_Commando_F_Prime_D"
+    },
+    {
+        "name": "Tactical Tracker",
+        "id": "CID_A_274_Athena_Commando_F_Prime_C"
+    },
+    {
+        "name": "Tank Gunner",
+        "id": "CID_A_285_Athena_Commando_M_Prime_G"
+    },
+    {
+        "name": "Battalion Leader",
+        "id": "CID_A_278_Athena_Commando_F_Prime_G"
+    },
+    {
+        "name": "Glimmer",
+        "id": "CID_298_Athena_Commando_F_IceMaiden"
+    },
+    {
+        "name": "Red Willow",
+        "id": "CID_Outlander_035_Palespooky_Outlander_Holiday"
+    },
+    {
+        "name": "Burial Threat",
+        "id": "CID_591_Athena_Commando_M_SoccerZombieC"
+    },
+    {
+        "name": "Soulless Sweeper",
+        "id": "CID_592_Athena_Commando_M_SoccerZombieD"
+    },
+    {
+        "name": "Grave Feather",
+        "id": "CID_A_043_Athena_Commando_M_DarkMinion"
+    },
+    {
+        "name": "Lara Croft",
+        "id": "CID_A_040_Athena_Commando_F_Temple"
+    },
+    {
+        "name": "Cluck",
+        "id": "CID_A_039_Athena_Commando_M_ChickenWarrior"
+    },
+    {
+        "name": "Tarana",
+        "id": "CID_A_037_Athena_Commando_F_DinoHunter"
+    },
+    {
+        "name": "Centurion",
+        "id": "CID_A_035_Athena_Commando_M_LionSoldier"
+    },
+    {
+        "name": "Marigold",
+        "id": "CID_A_034_Athena_Commando_F_CatBurglar"
+    },
+    {
+        "name": "Llambro",
+        "id": "CID_A_029_Athena_Commando_M_LlamaHeroWinter_C83TZ"
+    },
+    {
+        "name": "Cyprus Nell",
+        "id": "CID_A_032_Athena_Commando_M_SpaceWarrior"
+    },
+    {
+        "name": "Sica",
+        "id": "CID_A_028_Athena_Commando_F_AncientGladiator"
+    },
+    {
+        "name": "Ellen Ripley",
+        "id": "CID_A_026_Athena_Commando_F_Kepler_2G59M"
+    },
+    {
+        "name": "Lovely",
+        "id": "CID_A_022_Athena_Commando_F_Crush"
+    },
+    {
+        "name": "Britestorm Bomber",
+        "id": "CID_A_027_Athena_Commando_F_CasualBomberLight"
+    },
+    {
+        "name": "Bandwidth",
+        "id": "CID_A_021_Athena_Commando_F_Mainframe_E_L34E4"
+    },
+    {
+        "name": "Upload",
+        "id": "CID_A_019_Athena_Commando_F_Mainframe_C_U5RI4"
+    },
+    {
+        "name": "Commandline",
+        "id": "CID_A_018_Athena_Commando_F_Mainframe_B_T6GY4"
+    },
+    {
+        "name": "Packet",
+        "id": "CID_A_016_Athena_Commando_M_Mainframe_E_KPZJL"
+    },
+    {
+        "name": "Datapath",
+        "id": "CID_A_015_Athena_Commando_M_Mainframe_D_S625D"
+    },
+    {
+        "name": "Proxy",
+        "id": "CID_A_014_Athena_Commando_M_Mainframe_C_YVDOL"
+    },
+    {
+        "name": "Io",
+        "id": "CID_A_020_Athena_Commando_F_Mainframe_D_ZHVEM"
+    },
+    {
+        "name": "Firewall",
+        "id": "CID_A_013_Athena_Commando_M_Mainframe_B_70Z5M"
+    },
+    {
+        "name": "Cypher",
+        "id": "CID_A_012_Athena_Commando_M_Mainframe_V7Q8R"
+    },
+    {
+        "name": "Vi",
+        "id": "CID_A_009_Athena_Commando_F_FoxWarrior_21B9R"
+    },
+    {
+        "name": "Cuddle King",
+        "id": "CID_A_011_Athena_Commando_M_StreetCuddles"
+    },
+    {
+        "name": "Tess",
+        "id": "CID_A_008_Athena_Commando_F_CombatDoll"
+    },
+    {
+        "name": "Derby Dominator",
+        "id": "CID_A_003_Athena_Commando_F_GlobalFB_C_J4H5J"
+    },
+    {
+        "name": "Pitch Patroller",
+        "id": "CID_A_005_Athena_Commando_F_GlobalFB_E_GTH5I"
+    },
+    {
+        "name": "Bitstream",
+        "id": "CID_A_017_Athena_Commando_F_Mainframe_CYL17"
+    },
+    {
+        "name": "Striker Specialist",
+        "id": "CID_A_001_Athena_Commando_F_GlobalFB_HDL2W"
+    },
+    {
+        "name": "Shot Stopper",
+        "id": "CID_A_002_Athena_Commando_F_GlobalFB_B_0CH64"
+    },
+    {
+        "name": "Galactico",
+        "id": "CID_997_Athena_Commando_M_GlobalFB_C_N6I4H"
+    },
+    {
+        "name": "Breakaway",
+        "id": "CID_999_Athena_Commando_M_GlobalFB_E_OISU6"
+    },
+    {
+        "name": "Power Poacher",
+        "id": "CID_998_Athena_Commando_M_GlobalFB_D_UTIB8"
+    },
+    {
+        "name": "Orin",
+        "id": "CID_994_Athena_Commando_M_Lexa"
+    },
+    {
+        "name": "Midfield Master",
+        "id": "CID_995_Athena_Commando_M_GlobalFB_H5OIJ"
+    },
+    {
+        "name": "Sarah Connor",
+        "id": "CID_992_Athena_Commando_F_Typhoon_LPFU6"
+    },
+    {
+        "name": "Sgt. Sweeper",
+        "id": "CID_996_Athena_Commando_M_GlobalFB_B_RVED4"
+    },
+    {
+        "name": "Tiki Tackler",
+        "id": "CID_A_004_Athena_Commando_F_GlobalFB_D_62OZ5"
+    },
+    {
+        "name": "Blinky",
+        "id": "CID_984_Athena_Commando_M_HolidayLights"
+    },
+    {
+        "name": "Cozy Jonesy",
+        "id": "CID_981_Athena_Commando_M_JonesyHoliday"
+    },
+    {
+        "name": "Snowbell",
+        "id": "CID_980_Athena_Commando_F_Elf"
+    },
+    {
+        "name": "Karve",
+        "id": "CID_979_Athena_Commando_M_Snowboarder"
+    },
+    {
+        "name": "Mr. Dappermint",
+        "id": "CID_978_Athena_Commando_M_FancyCandy"
+    },
+    {
+        "name": "Agent Jones",
+        "id": "CID_989_Athena_Commando_M_ProgressiveJonesy"
+    },
+    {
+        "name": "Michonne",
+        "id": "CID_976_Athena_Commando_F_Wombat_0GRTQ"
+    },
+    {
+        "name": "Frost Squad",
+        "id": "CID_972_Athena_Commando_F_ArcticCamoWoods"
+    },
+    {
+        "name": "Machinist Mina",
+        "id": "CID_973_Athena_Commando_F_Mechstructor"
+    },
+    {
+        "name": "Daryl Dixon",
+        "id": "CID_977_Athena_Commando_M_Wombat_R7Q8K"
+    },
+    {
+        "name": "Holly Striker",
+        "id": "CID_974_Athena_Commando_F_StreetFashionHoliday"
+    },
+    {
+        "name": "Gingerbread Raider",
+        "id": "CID_970_Athena_Commando_F_RenegadeRaiderHoliday"
+    },
+    {
+        "name": "Snowmando",
+        "id": "CID_969_Athena_Commando_M_SnowmanFashion"
+    },
+    {
+        "name": "Fa-La-La-La-Fishstick",
+        "id": "CID_968_Athena_Commando_M_TeriyakiFishElf"
+    },
+    {
+        "name": "Reese",
+        "id": "CID_965_Athena_Commando_F_SpaceFighter"
+    },
+    {
+        "name": "Mave",
+        "id": "CID_961_Athena_Commando_F_Shapeshifter"
+    },
+    {
+        "name": "Princess Felicity Fish",
+        "id": "CID_872_Athena_Commando_F_TeriyakiFishPrincess"
+    },
+    {
+        "name": "Hedron",
+        "id": "CID_730_Athena_Commando_M_Stars"
+    },
+    {
+        "name": "Flow",
+        "id": "CID_731_Athena_Commando_F_Neon"
+    },
+    {
+        "name": "Pulse",
+        "id": "CID_729_Athena_Commando_M_Neon"
+    },
+    {
+        "name": "Xander",
+        "id": "CID_713_Athena_Commando_M_MaskedWarriorSpring"
+    },
+    {
+        "name": "Isabelle",
+        "id": "CID_A_042_Athena_Commando_F_Scholar"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_RebirthSoldier"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_PaddedArmor"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_MadCommander"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_HenchmanGoodShorts"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_HenchmanBadShorts"
+    },
+    {
+        "name": "Marauder Heavy",
+        "id": "CID_NPC_Athena_Commando_M_Kyle"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_Fallback"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_F_TowerSentinel"
+    },
+    {
+        "name": "Guernsey",
+        "id": "CID_A_118_Athena_Commando_M_JonesyCattle"
+    },
+    {
+        "name": "Celeste",
+        "id": "CID_A_117_Athena_Commando_F_Rockstar"
+    },
+    {
+        "name": "Spire Assassin",
+        "id": "CID_A_038_Athena_Commando_F_TowerSentinel"
+    },
+    {
+        "name": "Guggimon",
+        "id": "CID_A_115_Athena_Commando_M_Antique"
+    },
+    {
+        "name": "Iso",
+        "id": "CID_732_Athena_Commando_F_Stars"
+    },
+    {
+        "name": "Zyg",
+        "id": "CID_A_116_Athena_Commando_M_Invader"
+    },
+    {
+        "name": "Sunny",
+        "id": "CID_A_114_Athena_Commando_F_Believer"
+    },
+    {
+        "name": "Rick Sanchez",
+        "id": "CID_A_112_Athena_Commando_M_Ruckus"
+    },
+    {
+        "name": "The Champion",
+        "id": "CID_A_106_Athena_Commando_F_FuturePinkGoal"
+    },
+    {
+        "name": "Spire Immortal",
+        "id": "CID_A_104_Athena_Commando_M_TowerSentinel"
+    },
+    {
+        "name": "Lok-Bot",
+        "id": "CID_A_102_Athena_Commando_M_AssembleL"
+    },
+    {
+        "name": "Dizzie",
+        "id": "CID_A_099_Athena_Commando_F_Shrapnel"
+    },
+    {
+        "name": "Fixer",
+        "id": "CID_A_101_Athena_Commando_M_TacticalWoodlandBlue"
+    },
+    {
+        "name": "Spartan Assassin",
+        "id": "CID_A_098_Athena_Commando_F_SpartanFuture"
+    },
+    {
+        "name": "Chiara",
+        "id": "CID_A_097_Athena_Commando_F_WastelandWarrior"
+    },
+    {
+        "name": "Rainbow Racer",
+        "id": "CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor"
+    },
+    {
+        "name": "Lyra",
+        "id": "CID_A_093_Athena_Commando_F_StoneViper"
+    },
+    {
+        "name": "Marius",
+        "id": "CID_A_095_Athena_Commando_M_DoubleAgentGrey"
+    },
+    {
+        "name": "Etheria",
+        "id": "CID_A_091_Athena_Commando_F_DarkElf"
+    },
+    {
+        "name": "Chun-Li",
+        "id": "CID_A_024_Athena_Commando_F_Skirmish_QW2BQ"
+    },
+    {
+        "name": "D'ugh",
+        "id": "CID_A_090_Athena_Commando_M_Caveman"
+    },
+    {
+        "name": "Raptorian The Brave",
+        "id": "CID_A_079_Athena_Commando_M_RaptorKnight"
+    },
+    {
+        "name": "Ryu",
+        "id": "CID_A_023_Athena_Commando_M_Skirmish_W1N7H"
+    },
+    {
+        "name": "Scrapknight Jules",
+        "id": "CID_A_077_Athena_Commando_F_ArmoredEngineer"
+    },
+    {
+        "name": "Surrr Burger",
+        "id": "CID_A_075_Athena_Commando_M_DurrburgerKnight"
+    },
+    {
+        "name": "Gia",
+        "id": "CID_A_076_Athena_Commando_F_DinoCollector"
+    },
+    {
+        "name": "Zzaria The Cruel",
+        "id": "CID_A_074_Athena_Commando_M_TomatoKnight"
+    },
+    {
+        "name": "Kymera",
+        "id": "CID_A_110_Athena_Commando_M_AlienTrooper"
+    },
+    {
+        "name": "Pico de Gallant",
+        "id": "CID_A_073_Athena_Commando_F_TacoKnight"
+    },
+    {
+        "name": "Grimey",
+        "id": "CID_A_069_Athena_Commando_M_Accumulate"
+    },
+    {
+        "name": "Deimos",
+        "id": "CID_A_071_Athena_Commando_M_Cranium"
+    },
+    {
+        "name": "Aspen",
+        "id": "CID_A_064_Athena_Commando_F_SurvivalSpecialistAutumn"
+    },
+    {
+        "name": "Eco",
+        "id": "CID_A_068_Athena_Commando_M_TerrainMan"
+    },
+    {
+        "name": "Doctor Slone",
+        "id": "CID_A_113_Athena_Commando_F_Innovator"
+    },
+    {
+        "name": "IO Trooper",
+        "id": "CID_A_061_Athena_Commando_M_PaddedArmorOrder"
+    },
+    {
+        "name": "Megg",
+        "id": "CID_A_058_Athena_Commando_F_WickedDuck"
+    },
+    {
+        "name": "Webster",
+        "id": "CID_A_059_Athena_Commando_M_WickedDuck"
+    },
+    {
+        "name": "Diamond Hanz",
+        "id": "CID_A_060_Athena_Commando_M_Daytrader_8MRO2"
+    },
+    {
+        "name": "Bunya",
+        "id": "CID_A_056_Athena_Commando_F_BunnyFashion_E"
+    },
+    {
+        "name": "CeeCee",
+        "id": "CID_A_055_Athena_Commando_F_BunnyFashion_D"
+    },
+    {
+        "name": "Orelia",
+        "id": "CID_A_057_Athena_Commando_F_TheGoldenSkeleton"
+    },
+    {
+        "name": "Hopscotch",
+        "id": "CID_A_054_Athena_Commando_F_BunnyFashion_C"
+    },
+    {
+        "name": "Yuki",
+        "id": "CID_A_050_Athena_Commando_F_SailorSquadRose"
+    },
+    {
+        "name": "Babbit",
+        "id": "CID_A_053_Athena_Commando_F_BunnyFashion_B"
+    },
+    {
+        "name": "Dutch",
+        "id": "CID_A_051_Athena_Commando_M_HipHare"
+    },
+    {
+        "name": "Robo-Ray",
+        "id": "CID_A_046_Athena_Commando_F_AssembleR"
+    },
+    {
+        "name": "Whiska",
+        "id": "CID_A_052_Athena_Commando_F_BunnyFashion"
+    },
+    {
+        "name": "Chigusa",
+        "id": "CID_A_048_Athena_Commando_F_SailorSquadLeader"
+    },
+    {
+        "name": "Megumi",
+        "id": "CID_A_049_Athena_Commando_F_SailorSquadRebel"
+    },
+    {
+        "name": "Potassius Peels",
+        "id": "CID_A_045_Athena_Commando_M_BananaLeader"
+    },
+    {
+        "name": "Alli",
+        "id": "CID_A_044_Athena_Commando_F_NeonCatFashion_64JW3"
+    },
+    {
+        "name": "Kondor",
+        "id": "CID_966_Athena_Commando_M_FutureSamurai"
+    },
+    {
+        "name": "Mancake",
+        "id": "CID_962_Athena_Commando_M_FlapjackWrangler"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_TBD_Athena_Commando_M_Turtleneck_EVENT_NOTFORSTORE"
+    },
+    {
+        "name": "Raz",
+        "id": "CID_A_041_Athena_Commando_M_CubeNinja"
+    },
+    {
+        "name": "Joey",
+        "id": "CID_A_111_Athena_Commando_M_Faux"
+    },
+    {
+        "name": "Lexa",
+        "id": "CID_963_Athena_Commando_F_Lexa"
+    },
+    {
+        "name": "Splash Specialist",
+        "id": "CID_A_089_Athena_Commando_F_Hardwood_E_4TDWH"
+    },
+    {
+        "name": "Rebound Raider",
+        "id": "CID_A_088_Athena_Commando_F_Hardwood_D_WPHX2"
+    },
+    {
+        "name": "Crossover Champion",
+        "id": "CID_A_087_Athena_Commando_F_Hardwood_C_AOU16"
+    },
+    {
+        "name": "Dynamo Dribbler",
+        "id": "CID_A_086_Athena_Commando_F_Hardwood_B_B7ZQA"
+    },
+    {
+        "name": "Rain Maker",
+        "id": "CID_A_085_Athena_Commando_F_Hardwood_K7ZZ1"
+    },
+    {
+        "name": "Fadeaway",
+        "id": "CID_A_084_Athena_Commando_M_Hardwood_E_II9YS"
+    },
+    {
+        "name": "Triple-Double",
+        "id": "CID_A_083_Athena_Commando_M_Hardwood_D_7S0PN"
+    },
+    {
+        "name": "Half-Court Hero",
+        "id": "CID_A_081_Athena_Commando_M_Hardwood_B_JRP29"
+    },
+    {
+        "name": "Buzzer Beater",
+        "id": "CID_A_082_Athena_Commando_M_Hardwood_C_YS5XC"
+    },
+    {
+        "name": "Fast Break",
+        "id": "CID_A_080_Athena_Commando_M_Hardwood_I15AL"
+    },
+    {
+        "name": "Kelsier",
+        "id": "CID_A_100_Athena_Commando_M_Downpour_KC39P"
+    },
+    {
+        "name": "Haven",
+        "id": "CID_A_291_Athena_Commando_F_IslandNomad"
+    },
+    {
+        "name": "Shanta",
+        "id": "CID_A_292_Athena_Commando_F_ExoSuit"
+    },
+    {
+        "name": "Harlowe",
+        "id": "CID_A_290_Athena_Commando_F_Motorcyclist"
+    },
+    {
+        "name": "Ronin",
+        "id": "CID_A_287_Athena_Commando_M_LoneWolf"
+    },
+    {
+        "name": "Gumbo",
+        "id": "CID_A_289_Athena_Commando_M_Gumball"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_Prime"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_F_Prime"
+    },
+    {
+        "name": "Nitrojerry",
+        "id": "CID_A_125_Athena_Commando_M_Firecracker"
+    },
+    {
+        "name": "Human Bill",
+        "id": "CID_NPC_Athena_Commando_M_AlienSummer"
+    },
+    {
+        "name": "Lt. John Llama",
+        "id": "CID_A_288_Athena_Commando_M_BuffLlama"
+    },
+    {
+        "name": "The Mummy",
+        "id": "CID_A_218_Athena_Commando_M_CritterManiac_KV6J0"
+    },
+    {
+        "name": "Graven",
+        "id": "CID_A_217_Athena_Commando_M_CritterRaven"
+    },
+    {
+        "name": "Charlotte",
+        "id": "CID_A_203_Athena_Commando_F_PunkKoi"
+    },
+    {
+        "name": "The Foundation",
+        "id": "CID_A_286_Athena_Commando_M_Turtleneck"
+    },
+    {
+        "name": "Torin",
+        "id": "CID_A_200_Athena_Commando_F_GhostHunter"
+    },
+    {
+        "name": "Fabio Sparklemane",
+        "id": "CID_A_198_Athena_Commando_M_CerealBox"
+    },
+    {
+        "name": "Toona Fish",
+        "id": "CID_A_201_Athena_Commando_M_TeriyakiFishToon"
+    },
+    {
+        "name": "Beach Brutus",
+        "id": "CID_A_130_Athena_Commando_M_HenchmanSummer"
+    },
+    {
+        "name": "Kor",
+        "id": "CID_A_202_Athena_Commando_F_Division"
+    },
+    {
+        "name": "J.B. Chimpanski",
+        "id": "CID_A_199_Athena_Commando_M_SpaceChimp"
+    },
+    {
+        "name": "The Stylist",
+        "id": "CID_A_149_Athena_Commando_F_Pliant_C"
+    },
+    {
+        "name": "The Cube Queen",
+        "id": "CID_A_225_Athena_Commando_F_CubeQueen"
+    },
+    {
+        "name": "Victor Elite",
+        "id": "CID_A_271_Athena_Commando_M_FNCS_Purple"
+    },
+    {
+        "name": "NeuraLynx",
+        "id": "CID_A_258_Athena_Commando_F_NeonCatTech"
+    },
+    {
+        "name": "Mecha Morty",
+        "id": "CID_A_181_Athena_Commando_M_RuckusMini_A6VG6"
+    },
+    {
+        "name": "Sasuke Uchiha",
+        "id": "CID_A_263_Athena_Commando_M_HeadbandS"
+    },
+    {
+        "name": "Cart Champion",
+        "id": "CID_A_123_Athena_Commando_M_Golf_E"
+    },
+    {
+        "name": "Doombot Agent",
+        "id": "CID_NPC_Athena_Commando_M_Apparition_Heavy"
+    },
+    {
+        "name": "Myna",
+        "id": "CID_A_332_Athena_Commando_F_PrimalFalcon_3ITKM"
+    },
+    {
+        "name": "Boo-lastoff",
+        "id": "CID_A_246_Athena_Commando_M_ZombieElastic_C"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_CavernArmored"
+    },
+    {
+        "name": "Arcane Jinx",
+        "id": "CID_A_256_Athena_Commando_F_UproarBraids_8IOZW"
+    },
+    {
+        "name": "Hangtime",
+        "id": "CID_A_269_Athena_Commando_F_HasteStreet_B563I"
+    },
+    {
+        "name": "Bloom",
+        "id": "CID_A_191_Athena_Commando_M_AlienFlora"
+    },
+    {
+        "name": "Game Knight",
+        "id": "CID_A_207_Athena_Commando_M_TextileKnight_9TE8L"
+    },
+    {
+        "name": "Blizzabelle",
+        "id": "CID_A_311_Athena_Commando_F_ScholarFestiveWinter"
+    },
+    {
+        "name": "Lt. Look",
+        "id": "CID_A_145_Athena_Commando_M_Pliant_D"
+    },
+    {
+        "name": "U",
+        "id": "CID_NPC_Athena_Commando_F_CloakedAssassin"
+    },
+    {
+        "name": "Modena Icon",
+        "id": "CID_A_138_Athena_Commando_F_Foray_YQPB0"
+    },
+    {
+        "name": "Swing Sargeant",
+        "id": "CID_A_120_Athena_Commando_M_Golf_B"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_EmperorSuit"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_TBD_Athena_Commando_M_OrderGuard"
+    },
+    {
+        "name": "Mel",
+        "id": "CID_A_325_Athena_Commando_F_Scout"
+    },
+    {
+        "name": "Doombot Agent",
+        "id": "CID_NPC_Athena_Commando_M_Apparition_Grunt"
+    },
+    {
+        "name": "Stash'd",
+        "id": "CID_A_326_Athena_Commando_M_SharpDresserBlack"
+    },
+    {
+        "name": "Snow Stealth Slone",
+        "id": "CID_A_324_Athena_Commando_F_InnovatorFestive_3FUPH"
+    },
+    {
+        "name": "Kait Diaz",
+        "id": "CID_A_294_Athena_Commando_F_RustyBolt_DB20X"
+    },
+    {
+        "name": "Gi Guardian",
+        "id": "CID_A_300_Athena_Commando_M_Slither_C_IJ94B"
+    },
+    {
+        "name": "Robo-Kevin",
+        "id": "CID_A_268_Athena_Commando_M_AssembleK"
+    },
+    {
+        "name": "Swish",
+        "id": "CID_A_270_Athena_Commando_M_HasteDouble_8GQHC"
+    },
+    {
+        "name": "Sakura Haruno",
+        "id": "CID_A_264_Athena_Commando_F_HeadbandS"
+    },
+    {
+        "name": "Naruto Uzumaki",
+        "id": "CID_A_261_Athena_Commando_M_Headband"
+    },
+    {
+        "name": "Kakashi Hatake",
+        "id": "CID_A_262_Athena_Commando_M_HeadbandK"
+    },
+    {
+        "name": "Extinguished Firebrand",
+        "id": "CID_A_251_Athena_Commando_F_ZombieElastic_C"
+    },
+    {
+        "name": "Doom Dancer",
+        "id": "CID_A_249_Athena_Commando_F_ZombieElastic"
+    },
+    {
+        "name": "Amazona Colorada",
+        "id": "CID_A_240_Athena_Commando_F_Grasshopper_B_9RSI1"
+    },
+    {
+        "name": "Wanderlost",
+        "id": "CID_A_247_Athena_Commando_M_ZombieElastic_D"
+    },
+    {
+        "name": "Guerrero Colorado",
+        "id": "CID_A_236_Athena_Commando_M_Grasshopper_C_47TZ8"
+    },
+    {
+        "name": "Hroe Colorado",
+        "id": "CID_A_237_Athena_Commando_M_Grasshopper_D_5OEIK"
+    },
+    {
+        "name": "El Chapuln Colorado",
+        "id": "CID_A_233_Athena_Commando_M_Grasshopper_5GTT3"
+    },
+    {
+        "name": "Grisabelle",
+        "id": "CID_A_224_Athena_Commando_F_ScholarGhoul"
+    },
+    {
+        "name": "Chris Redfield",
+        "id": "CID_A_221_Athena_Commando_M_Relish_8364H"
+    },
+    {
+        "name": "Jett",
+        "id": "CID_A_220_Athena_Commando_F_PinkEmo"
+    },
+    {
+        "name": "Chani",
+        "id": "CID_A_215_Athena_Commando_F_SunriseCastle_48TIZ"
+    },
+    {
+        "name": "Color Crush",
+        "id": "CID_A_179_Athena_Commando_F_TieDyeFashion_D"
+    },
+    {
+        "name": "Sunburst Dawn",
+        "id": "CID_A_180_Athena_Commando_F_TieDyeFashion_E"
+    },
+    {
+        "name": "Lars",
+        "id": "CID_A_186_Athena_Commando_M_Lars"
+    },
+    {
+        "name": "Wavy Warrior",
+        "id": "CID_A_176_Athena_Commando_F_TieDyeFashion"
+    },
+    {
+        "name": "Sparkle Skull",
+        "id": "CID_A_173_Athena_Commando_F_PartyTrooperBuffet_55Z8G"
+    },
+    {
+        "name": "Swirl Girl",
+        "id": "CID_A_178_Athena_Commando_F_TieDyeFashion_C"
+    },
+    {
+        "name": "Skellemint Oro",
+        "id": "CID_A_156_Athena_Commando_M_GoldenSkeletonMint"
+    },
+    {
+        "name": "Pepper Thorne",
+        "id": "CID_A_152_Athena_Commando_F_Musician"
+    },
+    {
+        "name": "Wrap Major",
+        "id": "CID_A_151_Athena_Commando_F_Pliant_E"
+    },
+    {
+        "name": "Chic Commodore",
+        "id": "CID_A_146_Athena_Commando_M_Pliant_E"
+    },
+    {
+        "name": "Wrap Recon",
+        "id": "CID_A_142_Athena_Commando_M_Pliant"
+    },
+    {
+        "name": "Gildedguy",
+        "id": "CID_A_141_Athena_Commando_M_Dojo"
+    },
+    {
+        "name": "Mecha Cuddle Master",
+        "id": "CID_A_105_Athena_Commando_F_SpaceCuddles_5TEVA"
+    },
+    {
+        "name": "Windwalker Echo",
+        "id": "CID_A_047_Athena_Commando_F_Windwalker"
+    },
+    {
+        "name": "They're Back-Lash",
+        "id": "CID_A_250_Athena_Commando_F_ZombieElastic_B"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_F_CubeQueen"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_OrderGuardTank"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_Creative_Mannequin_M_Default"
+    },
+    {
+        "name": "Reina",
+        "id": "CID_A_319_Athena_Commando_F_Peppermint"
+    },
+    {
+        "name": "Azuki",
+        "id": "CID_A_318_Athena_Commando_M_KittyWarrior"
+    },
+    {
+        "name": "Frigid Foregoer",
+        "id": "CID_A_315_Athena_Commando_M_NightCapsule_B31L1"
+    },
+    {
+        "name": "Krisabelle",
+        "id": "CID_A_310_Athena_Commando_F_ScholarFestive"
+    },
+    {
+        "name": "Glumbunny",
+        "id": "CID_A_312_Athena_Commando_F_RainbowHat"
+    },
+    {
+        "name": "Heron Stance Hero",
+        "id": "CID_A_307_Athena_Commando_F_Slither_E_CSPZ8"
+    },
+    {
+        "name": "Black Belt Brawler",
+        "id": "CID_A_301_Athena_Commando_M_Slither_D_O7BM2"
+    },
+    {
+        "name": "Keri Commander",
+        "id": "CID_A_306_Athena_Commando_F_Slither_D_I6D2O"
+    },
+    {
+        "name": "Kumite Clasher",
+        "id": "CID_A_302_Athena_Commando_M_Slither_E_U47BK"
+    },
+    {
+        "name": "Dojo Defender",
+        "id": "CID_A_299_Athena_Commando_M_Slither_B_1X28D"
+    },
+    {
+        "name": "P33LY",
+        "id": "CID_A_259_Athena_Commando_M_PeelyTech"
+    },
+    {
+        "name": "CRZ-8",
+        "id": "CID_A_260_Athena_Commando_M_CrazyEightTech"
+    },
+    {
+        "name": "Andre",
+        "id": "CID_A_265_Athena_Commando_M_Grandeur_TBC0O"
+    },
+    {
+        "name": "Absenz",
+        "id": "CID_A_296_Athena_Commando_M_DarkPit"
+    },
+    {
+        "name": "Horrorsonic",
+        "id": "CID_A_245_Athena_Commando_M_ZombieElastic_B"
+    },
+    {
+        "name": "Jolterror",
+        "id": "CID_A_253_Athena_Commando_F_ZombieElastic_E"
+    },
+    {
+        "name": "Sierra",
+        "id": "CID_A_255_Athena_Commando_F_SAM_QA7ZS"
+    },
+    {
+        "name": "The Bitey Volt",
+        "id": "CID_A_248_Athena_Commando_M_ZombieElastic_E"
+    },
+    {
+        "name": "Agente Colorado",
+        "id": "CID_A_234_Athena_Commando_M_Grasshopper_A_57ARK"
+    },
+    {
+        "name": "Guerrera Colorada",
+        "id": "CID_A_241_Athena_Commando_F_Grasshopper_C_QGV1I"
+    },
+    {
+        "name": "Defensora Colorada",
+        "id": "CID_A_243_Athena_Commando_F_Grasshopper_E_L6I24"
+    },
+    {
+        "name": "KAWS Skeleton",
+        "id": "CID_A_223_Athena_Commando_M_Glitz_MJ5WQ"
+    },
+    {
+        "name": "Driftwalker",
+        "id": "CID_A_230_Athena_Commando_M_DriftHorror"
+    },
+    {
+        "name": "Jill Valentine",
+        "id": "CID_A_222_Athena_Commando_F_Relish_G6S5T"
+    },
+    {
+        "name": "All-Hallow's Steve",
+        "id": "CID_A_228_Athena_Commando_M_DisguiseBlack"
+    },
+    {
+        "name": "Curdle Scream Leader",
+        "id": "CID_A_213_Athena_Commando_M_CritterCuddle"
+    },
+    {
+        "name": "Chaos Origins",
+        "id": "CID_A_211_Athena_Commando_M_Psyche_JWQP3"
+    },
+    {
+        "name": "Rick Grimes",
+        "id": "CID_A_212_Athena_Commando_M_Tomcat_M1Z6G"
+    },
+    {
+        "name": "Paul Atreides",
+        "id": "CID_A_216_Athena_Commando_M_SunrisePalace_BBQY0"
+    },
+    {
+        "name": "Fashion Banshee",
+        "id": "CID_A_206_Athena_Commando_F_TextileSparkle_V8YSA"
+    },
+    {
+        "name": "Skeletara",
+        "id": "CID_A_210_Athena_Commando_F_RenegadeSkull"
+    },
+    {
+        "name": "D'Ark",
+        "id": "CID_A_194_Athena_Commando_F_AngelDark"
+    },
+    {
+        "name": "Cade",
+        "id": "CID_A_188_Athena_Commando_M_ColorBlock"
+    },
+    {
+        "name": "Mike Lowrey",
+        "id": "CID_A_189_Athena_Commando_M_Lavish_HUU31"
+    },
+    {
+        "name": "Pop Prodigy",
+        "id": "CID_A_172_Athena_Commando_F_Stands_E"
+    },
+    {
+        "name": "Dyed Breeze",
+        "id": "CID_A_177_Athena_Commando_F_TieDyeFashion_B"
+    },
+    {
+        "name": "The Burning Wolf",
+        "id": "CID_A_184_Athena_Commando_M_NinjaWolf_F09O3"
+    },
+    {
+        "name": "Vox Hunter",
+        "id": "CID_A_185_Athena_Commando_M_Polygon"
+    },
+    {
+        "name": "Syncopator",
+        "id": "CID_A_164_Athena_Commando_M_Stands_B"
+    },
+    {
+        "name": "Hi-Hat",
+        "id": "CID_A_163_Athena_Commando_M_Stands"
+    },
+    {
+        "name": "Synth Striker",
+        "id": "CID_A_167_Athena_Commando_M_Stands_E"
+    },
+    {
+        "name": "Band Pass",
+        "id": "CID_A_169_Athena_Commando_F_Stands_B"
+    },
+    {
+        "name": "Minty Bomber",
+        "id": "CID_A_155_Athena_Commando_F_BrightBomberMint"
+    },
+    {
+        "name": "Dude",
+        "id": "CID_A_159_Athena_Commando_M_Cashier_7K3F0"
+    },
+    {
+        "name": "Customized Captain",
+        "id": "CID_A_150_Athena_Commando_F_Pliant_D"
+    },
+    {
+        "name": "Mod Marauder",
+        "id": "CID_A_147_Athena_Commando_F_Pliant"
+    },
+    {
+        "name": "Vogue Visionary",
+        "id": "CID_A_148_Athena_Commando_F_Pliant_B"
+    },
+    {
+        "name": "Wrap Trapper",
+        "id": "CID_A_144_Athena_Commando_M_Pliant_C"
+    },
+    {
+        "name": "Scuba Crystal",
+        "id": "CID_A_131_Athena_Commando_F_JurassicArchaeologySummer"
+    },
+    {
+        "name": "Midsummer Midas",
+        "id": "CID_A_129_Athena_Commando_M_CatBurglarSummer"
+    },
+    {
+        "name": "Boardwalk Ruby",
+        "id": "CID_A_135_Athena_Commando_F_StreetFashionSummer"
+    },
+    {
+        "name": "Eagle Enforcer",
+        "id": "CID_A_121_Athena_Commando_M_Golf_C"
+    },
+    {
+        "name": "Putt Pursuer",
+        "id": "CID_A_122_Athena_Commando_M_Golf_D"
+    },
+    {
+        "name": "Beach Jules",
+        "id": "CID_A_127_Athena_Commando_F_MechanicalEngineerSummer"
+    },
+    {
+        "name": "Jonesy The First",
+        "id": "CID_883_Athena_M_3L_LOD2"
+    },
+    {
+        "name": "Geometrik",
+        "id": "CID_870_Athena_Commando_M_KevinCouture"
+    },
+    {
+        "name": "Cammy",
+        "id": "CID_A_162_Athena_Commando_F_Quarrel_E5D63"
+    },
+    {
+        "name": "Guile",
+        "id": "CID_A_161_Athena_Commando_M_Quarrel_SLXQG"
+    },
+    {
+        "name": "Nalia",
+        "id": "CID_A_314_Athena_Commando_F_NightCapsule_TAK2P"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_Broccoli"
+    },
+    {
+        "name": "Cozy Knit Jonesy",
+        "id": "CID_A_313_Athena_Commando_M_BlizzardBomber"
+    },
+    {
+        "name": "Shuto Striker",
+        "id": "CID_A_305_Athena_Commando_F_Slither_C_UE2Q9"
+    },
+    {
+        "name": "Dawn",
+        "id": "CID_A_308_Athena_Commando_F_Sunshine"
+    },
+    {
+        "name": "Mat Master",
+        "id": "CID_A_304_Athena_Commando_F_Slither_B_MO4VZ"
+    },
+    {
+        "name": "Kata Captain",
+        "id": "CID_A_303_Athena_Commando_F_Slither_D0YX9"
+    },
+    {
+        "name": "Karateka Jones",
+        "id": "CID_A_298_Athena_Commando_M_Slither_EJ6DB"
+    },
+    {
+        "name": "Marcus Fenix",
+        "id": "CID_A_295_Athena_Commando_M_RustyBolt_FEHJ0"
+    },
+    {
+        "name": "Sultura",
+        "id": "CID_A_297_Athena_Commando_F_Network"
+    },
+    {
+        "name": "Renee",
+        "id": "CID_A_266_Athena_Commando_F_Grandeur_9CO1M"
+    },
+    {
+        "name": "Putrid Polarity",
+        "id": "CID_A_252_Athena_Commando_F_ZombieElastic_D"
+    },
+    {
+        "name": "Kernel Poppy",
+        "id": "CID_A_254_Athena_Commando_M_ButterJack"
+    },
+    {
+        "name": "Haunted Hunter",
+        "id": "CID_A_244_Athena_Commando_M_ZombieElastic"
+    },
+    {
+        "name": "Defensor Colorado",
+        "id": "CID_A_238_Athena_Commando_M_Grasshopper_E_Q14K1"
+    },
+    {
+        "name": "Herona Colorada",
+        "id": "CID_A_242_Athena_Commando_F_Grasshopper_D_EIQ7X"
+    },
+    {
+        "name": "Capitana Colorada",
+        "id": "CID_A_239_Athena_Commando_F_Grasshopper_H6LB7"
+    },
+    {
+        "name": "Frankenstein's Bride",
+        "id": "CID_A_232_Athena_Commando_F_CritterStreak_YILHR"
+    },
+    {
+        "name": "Soldado Colorado",
+        "id": "CID_A_235_Athena_Commando_M_Grasshopper_B_RHQUY"
+    },
+    {
+        "name": "Shadow Midas",
+        "id": "CID_A_257_Athena_Commando_M_CatBurglar_Ghost"
+    },
+    {
+        "name": "Gummy Fishstick",
+        "id": "CID_A_226_Athena_Commando_M_SweetTeriyakiRed"
+    },
+    {
+        "name": "Frankenstein's Monster",
+        "id": "CID_A_214_Athena_Commando_M_CritterFrenzy_YDM1L"
+    },
+    {
+        "name": "Tricksy",
+        "id": "CID_A_229_Athena_Commando_F_DisguiseBlack"
+    },
+    {
+        "name": "Shady Doggo",
+        "id": "CID_A_208_Athena_Commando_M_TextilePup_C85OD"
+    },
+    {
+        "name": "Unchained Ramirez",
+        "id": "CID_A_205_Athena_Commando_F_TextileRam_GMRJ0"
+    },
+    {
+        "name": "Trespasser Elite",
+        "id": "CID_A_195_Athena_Commando_M_Crisis"
+    },
+    {
+        "name": "Major Glory",
+        "id": "CID_A_196_Athena_Commando_F_FNCSGreen"
+    },
+    {
+        "name": "Ione",
+        "id": "CID_A_209_Athena_Commando_F_Werewolf"
+    },
+    {
+        "name": "Janky",
+        "id": "CID_A_183_Athena_Commando_M_AntiquePal_S7A9W"
+    },
+    {
+        "name": "Brainstorm",
+        "id": "CID_A_190_Athena_Commando_M_AlienAgent"
+    },
+    {
+        "name": "Galaxy Grappler",
+        "id": "CID_A_174_Athena_Commando_F_CelestialGlow"
+    },
+    {
+        "name": "Harmonizer",
+        "id": "CID_A_171_Athena_Commando_F_Stands_D"
+    },
+    {
+        "name": "Amplitude",
+        "id": "CID_A_170_Athena_Commando_F_Stands_C"
+    },
+    {
+        "name": "Melody Maverick",
+        "id": "CID_A_168_Athena_Commando_F_Stands"
+    },
+    {
+        "name": "Fresh Aura",
+        "id": "CID_A_154_Athena_Commando_F_TreasureHunterFashionMint"
+    },
+    {
+        "name": "Attenuator",
+        "id": "CID_A_166_Athena_Commando_M_Stands_D"
+    },
+    {
+        "name": "Reverb",
+        "id": "CID_A_165_Athena_Commando_M_Stands_C"
+    },
+    {
+        "name": "Human Bill",
+        "id": "CID_A_175_Athena_Commando_M_AlienSummer"
+    },
+    {
+        "name": "Maranello Racer",
+        "id": "CID_A_139_Athena_Commando_M_Foray_SD8AA"
+    },
+    {
+        "name": "Summer Skye",
+        "id": "CID_A_153_Athena_Commando_F_BuffCatFan_TS2DR"
+    },
+    {
+        "name": "Quickchange",
+        "id": "CID_A_143_Athena_Commando_M_Pliant_B"
+    },
+    {
+        "name": "Jonesy The First",
+        "id": "CID_883_Athena_M_FN_Jonesy"
+    },
+    {
+        "name": "Bogey Basher",
+        "id": "CID_A_119_Athena_Commando_M_Golf"
+    },
+    {
+        "name": "Cube Assassin",
+        "id": "CID_865_Athena_Commando_F_CloakedAssassin_1XKHT"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_560_Athena_Commando_M_RebirthDefaultA"
+    },
+    {
+        "name": "Midas",
+        "id": "CID_694_Athena_Commando_M_CatBurglar"
+    },
+    {
+        "name": "Brutus",
+        "id": "CID_692_Athena_Commando_M_HenchmanTough"
+    },
+    {
+        "name": "A.I.M.",
+        "id": "CID_267_Athena_Commando_M_RobotRed"
+    },
+    {
+        "name": "Hemlock",
+        "id": "CID_608_Athena_Commando_F_ModernWitch"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_AlienRobot"
+    },
+    {
+        "name": "Aloy",
+        "id": "CID_A_062_Athena_Commando_F_Alchemy_XD6GP"
+    },
+    {
+        "name": "Xenomorph",
+        "id": "CID_A_025_Athena_Commando_M_Kepler_UEN6V"
+    },
+    {
+        "name": "Snake Eyes",
+        "id": "CID_A_006_Athena_Commando_M_ConvoyTarantula_641PZ"
+    },
+    {
+        "name": "T-800",
+        "id": "CID_993_Athena_Commando_M_TyphoonRobot_2YRGV"
+    },
+    {
+        "name": "Predator",
+        "id": "CID_991_Athena_Commando_M_Nightmare_NM1C8"
+    },
+    {
+        "name": "Master Chief",
+        "id": "CID_971_Athena_Commando_M_Jupiter_S0Z6M"
+    },
+    {
+        "name": "Menace",
+        "id": "CID_967_Athena_Commando_M_AncientGladiator"
+    },
+    {
+        "name": "Kratos",
+        "id": "CID_964_Athena_Commando_M_Historian_869BC"
+    },
+    {
+        "name": "Doombot Agent",
+        "id": "CID_NPC_Athena_Commando_M_HightowerHenchman_Date"
+    },
+    {
+        "name": "Stark Auto-Defense Unit",
+        "id": "CID_NPC_Athena_Commando_M_HightowerHenchman"
+    },
+    {
+        "name": "PERF OPTIMIZED",
+        "id": "CID_NPC_Athena_Commando_M_HenchmanGood"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_CatBurglar_Ghost"
+    },
+    {
+        "name": "SHADOW Beach Brawler",
+        "id": "CID_780_Athena_Commando_M_HenchmanBadShorts"
+    },
+    {
+        "name": "GHOST Beach Brawler",
+        "id": "CID_779_Athena_Commando_M_HenchmanGoodShorts"
+    },
+    {
+        "name": "Aeronaut",
+        "id": "CID_518_Athena_Commando_M_WWII_PilotSciFi"
+    },
+    {
+        "name": "Malice",
+        "id": "CID_369_Athena_Commando_F_DevilRock"
+    },
+    {
+        "name": "Riot",
+        "id": "CID_268_Athena_Commando_M_RockerPunk"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_006_Athena_Commando_M_Default"
+    },
+    {
+        "name": "Cuddle Team Leader",
+        "id": "CID_069_Athena_Commando_F_PinkBear"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_005_Athena_Commando_M_Default"
+    },
+    {
+        "name": "Ruby Shadows",
+        "id": "CID_A_007_Athena_Commando_F_StreetFashionEclipse"
+    },
+    {
+        "name": "The Batman Who Laughs",
+        "id": "CID_A_219_Athena_Commando_M_Giggle_C2UK0"
+    },
+    {
+        "name": "Bloodsport",
+        "id": "CID_A_160_Athena_Commando_M_SeesawSlipper"
+    },
+    {
+        "name": "Armored Batman Zero",
+        "id": "CID_A_124_Athena_Commando_M_CavernArmored"
+    },
+    {
+        "name": "Deathstroke Zero",
+        "id": "CID_A_103_Athena_Commando_M_Grim_VM52M"
+    },
+    {
+        "name": "Catwoman Zero",
+        "id": "CID_A_094_Athena_Commando_F_Cavern_33LMC"
+    },
+    {
+        "name": "Batman Zero",
+        "id": "CID_A_070_Athena_Commando_M_Cavern_3I6I1"
+    },
+    {
+        "name": "Rebirth Harley Quinn",
+        "id": "CID_A_063_Athena_Commando_F_CottonCandy"
+    },
+    {
+        "name": "Rebirth Raven",
+        "id": "CID_A_036_Athena_Commando_F_Obsidian"
+    },
+    {
+        "name": "The Flash",
+        "id": "CID_A_010_Athena_Commando_M_Tar_46FMC"
+    },
+    {
+        "name": "Green Arrow",
+        "id": "CID_985_Athena_Commando_M_TipToe_5L424"
+    },
+    {
+        "name": "J Balvin",
+        "id": "CID_A_182_Athena_Commando_M_Vivid_LZGQ3"
+    },
+    {
+        "name": "Ariana Grande",
+        "id": "CID_A_158_Athena_Commando_F_Buffet_YC20H"
+    },
+    {
+        "name": "Bugha",
+        "id": "CID_A_140_Athena_Commando_M_BlueCheese"
+    },
+    {
+        "name": "Tune Squad LeBron",
+        "id": "CID_A_137_Athena_Commando_M_MajestyBlue_3RVJS"
+    },
+    {
+        "name": "LeBron James",
+        "id": "CID_A_136_Athena_Commando_M_Majesty_YR1GJ"
+    },
+    {
+        "name": "Lazarbeam",
+        "id": "CID_A_031_Athena_Commando_M_Builder"
+    },
+    {
+        "name": "TheGrefg",
+        "id": "CID_990_Athena_Commando_M_GrilledCheese_SNX4K"
+    },
+    {
+        "name": "Neymar Jr",
+        "id": "CID_A_078_Athena_Commando_M_Bicycle"
+    },
+    {
+        "name": "Polar Peely",
+        "id": "CID_A_323_Athena_Commando_M_BananaWinter"
+    },
+    {
+        "name": "Permafrost Raider",
+        "id": "CID_A_322_Athena_Commando_F_RenegadeRaiderIce"
+    },
+    {
+        "name": "Ice Crystal",
+        "id": "CID_A_321_Athena_Commando_F_JurassicArchaeologyWinter"
+    },
+    {
+        "name": "Icebound Midas",
+        "id": "CID_A_320_Athena_Commando_M_CatburglarWinter"
+    },
+    {
+        "name": "Frost Broker",
+        "id": "CID_987_Athena_Commando_M_Frostbyte"
+    },
+    {
+        "name": "Snowheart",
+        "id": "CID_983_Athena_Commando_F_CupidWinter"
+    },
+    {
+        "name": "Snow Drift",
+        "id": "CID_982_Athena_Commando_M_DriftWinter"
+    },
+    {
+        "name": "Mandalorian",
+        "id": "CID_960_Athena_Commando_M_Cosmos"
+    },
+    {
+        "name": "Clark Kent",
+        "id": "CID_A_109_Athena_Commando_M_Emperor"
+    },
+    {
+        "name": "Wonder Woman",
+        "id": "CID_A_187_Athena_Commando_F_Monarch"
+    },
+    {
+        "name": "Beast Boy",
+        "id": "CID_A_092_Athena_Commando_M_Broccoli_PR297"
+    },
+    {
+        "name": "Spacefarer Ariana Grande",
+        "id": "CID_A_227_Athena_Commando_F_BistroAstronaut_JJLK5"
+    },
+    {
+        "name": "Joy",
+        "id": "CID_A_192_Athena_Commando_F_Suspenders"
+    },
+    {
+        "name": "Marco Reus",
+        "id": "CID_A_108_Athena_Commando_M_LassoPolo_8GAM0"
+    },
+    {
+        "name": "Harry Kane",
+        "id": "CID_A_107_Athena_Commando_M_Lasso_JHZA3"
+    },
+    {
+        "name": "Toon Meowscles",
+        "id": "CID_A_072_Athena_Commando_M_BuffCatComic_XG5XC"
+    },
+    {
+        "name": "Boba Fett",
+        "id": "CID_A_309_Athena_Commando_M_OrbitTeal_9RBJL"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_001_Athena_Commando_F_Default"
+    },
+    {
+        "name": "Incinerator Kuno",
+        "id": "CID_A_134_Athena_Commando_F_BandageNinjaFire"
+    },
+    {
+        "name": "Molten Ragnarok",
+        "id": "CID_A_133_Athena_Commando_M_DarkVikingFire"
+    },
+    {
+        "name": "Roast Lord",
+        "id": "CID_A_132_Athena_Commando_M_ScavengerFire"
+    },
+    {
+        "name": "Fanatic",
+        "id": "CID_768_Athena_Commando_F_HardcoreSportz"
+    },
+    {
+        "name": "Corrupted Insight",
+        "id": "CID_853_Athena_Commando_F_SniperHoodCorrupt"
+    },
+    {
+        "name": "Corrupted Shogun",
+        "id": "CID_854_Athena_Commando_M_SamuraiUltraArmorCorrupt"
+    },
+    {
+        "name": "Tart Tycoon",
+        "id": "CID_851_Athena_Commando_M_Bittenhead"
+    },
+    {
+        "name": "Corrupted Arachne",
+        "id": "CID_852_Athena_Commando_F_BlackWidowCorrupt"
+    },
+    {
+        "name": "Dread Omen",
+        "id": "CID_849_Athena_Commando_M_DarkEaglePurple"
+    },
+    {
+        "name": "Dread Fate",
+        "id": "CID_848_Athena_Commando_F_DarkNinjaPurple"
+    },
+    {
+        "name": "Dark Skully",
+        "id": "CID_850_Athena_Commando_F_SkullBriteCube"
+    },
+    {
+        "name": "Seeker",
+        "id": "CID_837_Athena_Commando_M_MaskedDancer"
+    },
+    {
+        "name": "Samurai Scrapper",
+        "id": "CID_838_Athena_Commando_M_JunkSamurai"
+    },
+    {
+        "name": "Bryne",
+        "id": "CID_835_Athena_Commando_F_LadyAtlantis"
+    },
+    {
+        "name": "Castaway Jonesy",
+        "id": "CID_836_Athena_Commando_M_JonesyFlare"
+    },
+    {
+        "name": "Axo",
+        "id": "CID_834_Athena_Commando_M_Axl"
+    },
+    {
+        "name": "Splatterella",
+        "id": "CID_832_Athena_Commando_F_AntiLlama"
+    },
+    {
+        "name": "Crustina",
+        "id": "CID_831_Athena_Commando_F_PIzzaPitMascot"
+    },
+    {
+        "name": "Mecha Team Shadow",
+        "id": "CID_827_Athena_Commando_M_MultibotStealth"
+    },
+    {
+        "name": "Deo",
+        "id": "CID_830_Athena_Commando_M_SpaceWanderer"
+    },
+    {
+        "name": "Pitstop",
+        "id": "CID_828_Athena_Commando_F_Valet"
+    },
+    {
+        "name": "King Krab",
+        "id": "CID_826_Athena_Commando_M_FloatillaCaptain"
+    },
+    {
+        "name": "Adeline",
+        "id": "CID_825_Athena_Commando_F_SportsFashion"
+    },
+    {
+        "name": "Athleisure Assassin",
+        "id": "CID_824_Athena_Commando_F_RaiderPink"
+    },
+    {
+        "name": "Kalia",
+        "id": "CID_823_Athena_Commando_F_Islander"
+    },
+    {
+        "name": "Mariana",
+        "id": "CID_822_Athena_Commando_F_Angler"
+    },
+    {
+        "name": "Storm Racer",
+        "id": "CID_829_Athena_Commando_M_Valet"
+    },
+    {
+        "name": "Party Diva",
+        "id": "CID_819_Athena_Commando_F_NeonTightSuit_B"
+    },
+    {
+        "name": "Party Star",
+        "id": "CID_818_Athena_Commando_F_NeonTightSuit_A"
+    },
+    {
+        "name": "Party MVP",
+        "id": "CID_820_Athena_Commando_F_NeonTightSuit_C"
+    },
+    {
+        "name": "Barracuda",
+        "id": "CID_816_Athena_Commando_F_DirtyDocks"
+    },
+    {
+        "name": "Sizzle",
+        "id": "CID_815_Athena_Commando_F_DurrburgerHero"
+    },
+    {
+        "name": "Summer Fable",
+        "id": "CID_812_Athena_Commando_F_RedRidingSummer"
+    },
+    {
+        "name": "Atlantean Fishstick",
+        "id": "CID_813_Athena_Commando_M_TeriyakiAtlantis"
+    },
+    {
+        "name": "Waveripper",
+        "id": "CID_817_Athena_Commando_M_DirtyDocks"
+    },
+    {
+        "name": "Tropical Punch Zoey",
+        "id": "CID_811_Athena_Commando_F_CandySummer"
+    },
+    {
+        "name": "Unpeely",
+        "id": "CID_814_Athena_Commando_M_BananaSummer"
+    },
+    {
+        "name": "Black Manta",
+        "id": "CID_809_Athena_Commando_M_Seaweed_IXRLQ"
+    },
+    {
+        "name": "Starflare",
+        "id": "CID_808_Athena_Commando_F_ConstellationSun"
+    },
+    {
+        "name": "Kyra",
+        "id": "CID_806_Athena_Commando_F_GreenJacket"
+    },
+    {
+        "name": "Shore Leave",
+        "id": "CID_810_Athena_Commando_M_MilitaryFashionSummer"
+    },
+    {
+        "name": "Surf Witch",
+        "id": "CID_805_Athena_Commando_F_PunkDevilSummer"
+    },
+    {
+        "name": "Comfy Chomps",
+        "id": "CID_804_Athena_Commando_M_SharkSuit"
+    },
+    {
+        "name": "Cozy Chomps",
+        "id": "CID_803_Athena_Commando_F_SharkSuit"
+    },
+    {
+        "name": "Bryce 3000",
+        "id": "CID_800_Athena_Commando_M_Robro"
+    },
+    {
+        "name": "Par Patroller",
+        "id": "CID_801_Athena_Commando_F_GolfSummer"
+    },
+    {
+        "name": "Darkheart",
+        "id": "CID_799_Athena_Commando_F_CupidDark"
+    },
+    {
+        "name": "Lada",
+        "id": "CID_797_Athena_Commando_F_Taco"
+    },
+    {
+        "name": "Sandshark Driver",
+        "id": "CID_796_Athena_Commando_F_Tank"
+    },
+    {
+        "name": "Safari",
+        "id": "CID_802_Athena_Commando_F_HeartBreaker"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_794_Athena_Commando_M_HenchmanBadShorts_D"
+    },
+    {
+        "name": "Dummy",
+        "id": "CID_795_Athena_Commando_M_Dummeez"
+    },
+    {
+        "name": "Relaxed Fit Jonesy",
+        "id": "CID_798_Athena_Commando_M_JonesyVagabond"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_792_Athena_Commando_M_HenchmanBadShorts_B"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_791_Athena_Commando_M_HenchmanGoodShorts_D"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_790_Athena_Commando_M_HenchmanGoodShorts_C"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_789_Athena_Commando_M_HenchmanGoodShorts_B"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_793_Athena_Commando_M_HenchmanBadShorts_C"
+    },
+    {
+        "name": "Double Agent Wildcard",
+        "id": "CID_787_Athena_Commando_M_Heist_Ghost"
+    },
+    {
+        "name": "Scarlet Serpent",
+        "id": "CID_785_Athena_Commando_F_Python"
+    },
+    {
+        "name": "Chaos Double Agent",
+        "id": "CID_788_Athena_Commando_M_Mastermind_Ghost"
+    },
+    {
+        "name": "Double Agent Hush",
+        "id": "CID_786_Athena_Commando_F_CavalryBandit_Ghost"
+    },
+    {
+        "name": "Blaze",
+        "id": "CID_784_Athena_Commando_F_RenegadeRaiderFire"
+    },
+    {
+        "name": "Swamp Stomper",
+        "id": "CID_778_Athena_Commando_M_Gator"
+    },
+    {
+        "name": "Fade",
+        "id": "CID_777_Athena_Commando_M_RacerZero"
+    },
+    {
+        "name": "Surf Strider",
+        "id": "CID_783_Athena_Commando_M_AquaJacket"
+    },
+    {
+        "name": "Rally Raider",
+        "id": "CID_775_Athena_Commando_F_StreetRacerCobraGold"
+    },
+    {
+        "name": "Scuba Jonesy",
+        "id": "CID_774_Athena_Commando_M_TacticalScuba"
+    },
+    {
+        "name": "Trench Trawler",
+        "id": "CID_773_Athena_Commando_M_Beacon"
+    },
+    {
+        "name": "Aquaman",
+        "id": "CID_772_Athena_Commando_M_Sandcastle"
+    },
+    {
+        "name": "Ocean",
+        "id": "CID_771_Athena_Commando_F_OceanRider"
+    },
+    {
+        "name": "Showdown",
+        "id": "CID_769_Athena_Commando_M_HardcoreSportz"
+    },
+    {
+        "name": "Jules",
+        "id": "CID_770_Athena_Commando_F_MechanicalEngineer"
+    },
+    {
+        "name": "Formation Fighter",
+        "id": "CID_942_Athena_Commando_F_Football20_YQUPK"
+    },
+    {
+        "name": "TD Titan",
+        "id": "CID_941_Athena_Commando_M_Football20_E_KNWUY"
+    },
+    {
+        "name": "Red Zone Renegade",
+        "id": "CID_940_Athena_Commando_M_Football20_D_ZID7Q"
+    },
+    {
+        "name": "Blitz Brigade",
+        "id": "CID_939_Athena_Commando_M_Football20_C_9OP0F"
+    },
+    {
+        "name": "Metal Team Leader",
+        "id": "CID_781_Athena_Commando_F_FuzzyBearTEDDY"
+    },
+    {
+        "name": "Scrimmage Scrapper",
+        "id": "CID_938_Athena_Commando_M_Football20_B_I18W6"
+    },
+    {
+        "name": "Diamond Diva",
+        "id": "CID_936_Athena_Commando_F_RaiderSilver"
+    },
+    {
+        "name": "Galaxia",
+        "id": "CID_935_Athena_Commando_F_Eternity"
+    },
+    {
+        "name": "Nite Gunner",
+        "id": "CID_782_Athena_Commando_M_BrightGunnerEclipse"
+    },
+    {
+        "name": "Pass Rush Ranger",
+        "id": "CID_937_Athena_Commando_M_Football20_UIC2Q"
+    },
+    {
+        "name": "Trinity Trooper",
+        "id": "CID_933_Athena_Commando_F_FuturePink"
+    },
+    {
+        "name": "Powerhouse",
+        "id": "CID_932_Athena_Commando_M_ShockWave"
+    },
+    {
+        "name": "Slumberjack",
+        "id": "CID_931_Athena_Commando_M_NauticalPajamas_E"
+    },
+    {
+        "name": "Dozer",
+        "id": "CID_930_Athena_Commando_M_NauticalPajamas_D"
+    },
+    {
+        "name": "Cloud Striker",
+        "id": "CID_926_Athena_Commando_F_StreetFashionDiamond"
+    },
+    {
+        "name": "Nap Cap'n",
+        "id": "CID_928_Athena_Commando_M_NauticalPajamas_B"
+    },
+    {
+        "name": "REM Raider",
+        "id": "CID_927_Athena_Commando_M_NauticalPajamas"
+    },
+    {
+        "name": "Sgt. Snooze",
+        "id": "CID_929_Athena_Commando_M_NauticalPajamas_C"
+    },
+    {
+        "name": "Midas Rex",
+        "id": "CID_923_Athena_Commando_M_ParcelGold"
+    },
+    {
+        "name": "Baba Yaga",
+        "id": "CID_919_Athena_Commando_F_BabaYaga"
+    },
+    {
+        "name": "Party Trooper",
+        "id": "CID_920_Athena_Commando_M_PartyTrooper"
+    },
+    {
+        "name": "Fishskull",
+        "id": "CID_918_Athena_Commando_M_TeriyakiFishSkull"
+    },
+    {
+        "name": "The Joker",
+        "id": "CID_922_Athena_Commando_M_ParcelPrank"
+    },
+    {
+        "name": "Bone Boss",
+        "id": "CID_917_Athena_Commando_M_DurrburgerSkull"
+    },
+    {
+        "name": "Poison Ivy",
+        "id": "CID_921_Athena_Commando_F_ParcelPetal"
+    },
+    {
+        "name": "Skull Squad Leader",
+        "id": "CID_916_Athena_Commando_F_FuzzyBearSkull"
+    },
+    {
+        "name": "Bone Ravage",
+        "id": "CID_915_Athena_Commando_F_RavenQuillSkull"
+    },
+    {
+        "name": "Ravina",
+        "id": "CID_903_Athena_Commando_F_Frankie"
+    },
+    {
+        "name": "Headlock",
+        "id": "CID_900_Athena_Commando_M_Famine"
+    },
+    {
+        "name": "Punk",
+        "id": "CID_902_Athena_Commando_M_PumpkinPunk"
+    },
+    {
+        "name": "Patch",
+        "id": "CID_901_Athena_Commando_F_PumpkinSpice"
+    },
+    {
+        "name": "Grimoire",
+        "id": "CID_899_Athena_Commando_F_Poison"
+    },
+    {
+        "name": "Violet",
+        "id": "CID_896_Athena_Commando_F_SpookyNeon"
+    },
+    {
+        "name": "Nightsurf Bomber",
+        "id": "CID_897_Athena_Commando_F_DarkBomberSummer"
+    },
+    {
+        "name": "Gnash",
+        "id": "CID_894_Athena_Commando_M_Palespooky"
+    },
+    {
+        "name": "Grave",
+        "id": "CID_898_Athena_Commando_M_FlowerSkeleton"
+    },
+    {
+        "name": "Arachne Couture",
+        "id": "CID_893_Athena_Commando_F_BlackWidowJacket"
+    },
+    {
+        "name": "Headhunter Prime",
+        "id": "CID_890_Athena_Commando_F_ChOneHeadhunter"
+    },
+    {
+        "name": "Midnight Dusk",
+        "id": "CID_892_Athena_Commando_F_VampireCasual"
+    },
+    {
+        "name": "Vanguard Banshee",
+        "id": "CID_888_Athena_Commando_F_ChOneBanshee"
+    },
+    {
+        "name": "Lachlan",
+        "id": "CID_891_Athena_Commando_M_LunchBox"
+    },
+    {
+        "name": "Original Renegade",
+        "id": "CID_886_Athena_Commando_M_ChOneRenegade"
+    },
+    {
+        "name": "Rookie Spitfire",
+        "id": "CID_887_Athena_Commando_M_ChOneSpitfire"
+    },
+    {
+        "name": "Vintage Ramirez",
+        "id": "CID_884_Athena_Commando_F_ChOneRamirez"
+    },
+    {
+        "name": "Jonesy The First",
+        "id": "CID_883_Athena_Commando_M_ChOneJonesy"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_881_Athena_Commando_F_RebirthDefault_H"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_882_Athena_Commando_F_RebirthDefault_I"
+    },
+    {
+        "name": "Hawk Classic",
+        "id": "CID_885_Athena_Commando_M_ChOneHawk"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_879_Athena_Commando_F_RebirthDefault_F"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_880_Athena_Commando_F_RebirthDefault_G"
+    },
+    {
+        "name": "Wildstreak One",
+        "id": "CID_889_Athena_Commando_F_ChOneWildcat"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_876_Athena_Commando_M_RebirthDefaultH"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_877_Athena_Commando_M_RebirthDefaultI"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_874_Athena_Commando_M_RebirthDefaultF"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_875_Athena_Commando_M_RebirthDefaultG"
+    },
+    {
+        "name": "Victoria Saint",
+        "id": "CID_869_Athena_Commando_F_Cavalry"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_873_Athena_Commando_M_RebirthDefaultE"
+    },
+    {
+        "name": "Sagan",
+        "id": "CID_871_Athena_Commando_F_StreetFashionGarnet"
+    },
+    {
+        "name": "Morro",
+        "id": "CID_867_Athena_Commando_M_Myth"
+    },
+    {
+        "name": "Antheia",
+        "id": "CID_866_Athena_Commando_F_Myth"
+    },
+    {
+        "name": "Set_01_LA_SG",
+        "id": "CID_VIP_Athena_Commando_M_GalileoFerry_SG"
+    },
+    {
+        "name": "Set_01_OA_SG",
+        "id": "CID_VIP_Athena_Commando_M_GalileoGondola_SG"
+    },
+    {
+        "name": "Set_01_TA_SG",
+        "id": "CID_VIP_Athena_Commando_F_GalileoRocket_SG"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_TBD_Athena_Commando_M_Nutcracker_CINE"
+    },
+    {
+        "name": "Peely",
+        "id": "CID_TBD_Athena_Commando_M_Banana_CINE"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_TacticalFishermanOil"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_SpaceWanderer"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_Scrapyard"
+    },
+    {
+        "name": "Marauder Heavy",
+        "id": "CID_NPC_Athena_Commando_M_MarauderHeavy"
+    },
+    {
+        "name": "Marauder",
+        "id": "CID_NPC_Athena_Commando_M_MarauderGrunt"
+    },
+    {
+        "name": "PERF OPTIMIZED",
+        "id": "CID_NPC_Athena_Commando_M_HenchmanBad"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_PaddedArmorArctic"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_M_HeistSummerIsland"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_NPC_Athena_Commando_F_RebirthDefault_Henchman"
+    },
+    {
+        "name": "Marauder Elite",
+        "id": "CID_NPC_Athena_Commando_F_MarauderElite"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_F_HenchmanSpyGood"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_NPC_Athena_Commando_F_HenchmanSpyDark"
+    },
+    {
+        "name": "Mincemeat",
+        "id": "CID_958_Athena_Commando_M_PieMan"
+    },
+    {
+        "name": "Cobb",
+        "id": "CID_959_Athena_Commando_M_Corny"
+    },
+    {
+        "name": "Heart-Stopper",
+        "id": "CID_957_Athena_Commando_F_Ponytail"
+    },
+    {
+        "name": "Replay Ranger",
+        "id": "CID_956_Athena_Commando_F_Football20Referee_E_DQTP6"
+    },
+    {
+        "name": "Spiral Specialist",
+        "id": "CID_954_Athena_Commando_F_Football20Referee_C_NAQ0G"
+    },
+    {
+        "name": "Offense Overseer",
+        "id": "CID_955_Athena_Commando_F_Football20Referee_D_OFZIL"
+    },
+    {
+        "name": "Huddle Hero",
+        "id": "CID_952_Athena_Commando_F_Football20Referee_ZX4IC"
+    },
+    {
+        "name": "End Zone Expert",
+        "id": "CID_953_Athena_Commando_F_Football20Referee_B_5SV7Q"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_878_Athena_Commando_F_RebirthDefault_E"
+    },
+    {
+        "name": "Time-Out",
+        "id": "CID_950_Athena_Commando_M_Football20Referee_D_MIHME"
+    },
+    {
+        "name": "Offside Officer",
+        "id": "CID_949_Athena_Commando_M_Football20Referee_C_SMMEY"
+    },
+    {
+        "name": "Elite Linesman",
+        "id": "CID_951_Athena_Commando_M_Football20Referee_E_QBIBA"
+    },
+    {
+        "name": "Fair Play",
+        "id": "CID_947_Athena_Commando_M_Football20Referee_IN7EY"
+    },
+    {
+        "name": "Sideline Commander",
+        "id": "CID_948_Athena_Commando_M_Football20Referee_B_QPXTH"
+    },
+    {
+        "name": "Snap Squad",
+        "id": "CID_945_Athena_Commando_F_Football20_D_G1UYT"
+    },
+    {
+        "name": "Trench Runner",
+        "id": "CID_946_Athena_Commando_F_Football20_E_EFKP3"
+    },
+    {
+        "name": "Punt Paragon",
+        "id": "CID_943_Athena_Commando_F_Football20_B_GR3WN"
+    },
+    {
+        "name": "Crossbar Crusher",
+        "id": "CID_944_Athena_Commando_F_Football20_C_FO6IY"
+    },
+    {
+        "name": "Firebrand",
+        "id": "CID_862_Athena_Commando_F_Elastic_C"
+    },
+    {
+        "name": "Polarity",
+        "id": "CID_863_Athena_Commando_F_Elastic_D"
+    },
+    {
+        "name": "Joltara",
+        "id": "CID_864_Athena_Commando_F_Elastic_E"
+    },
+    {
+        "name": "Wanderlust",
+        "id": "CID_858_Athena_Commando_M_Elastic_D"
+    },
+    {
+        "name": "Hunter",
+        "id": "CID_855_Athena_Commando_M_Elastic"
+    },
+    {
+        "name": "Hypersonic",
+        "id": "CID_856_Athena_Commando_M_Elastic_B"
+    },
+    {
+        "name": "Backlash",
+        "id": "CID_861_Athena_Commando_F_Elastic_B"
+    },
+    {
+        "name": "Blastoff",
+        "id": "CID_857_Athena_Commando_M_Elastic_C"
+    },
+    {
+        "name": "The Mighty Volt",
+        "id": "CID_859_Athena_Commando_M_Elastic_E"
+    },
+    {
+        "name": "Dynamo Dancer",
+        "id": "CID_860_Athena_Commando_F_Elastic"
+    },
+    {
+        "name": "Derby Dynamo",
+        "id": "CID_833_Athena_Commando_F_TripleScoop"
+    },
+    {
+        "name": "Kit",
+        "id": "CID_776_Athena_Commando_M_ProfessorPup"
+    },
+    {
+        "name": "P.K.E. Ranger",
+        "id": "CID_905_Athena_Commando_M_York"
+    },
+    {
+        "name": "Ecto Expert",
+        "id": "CID_907_Athena_Commando_M_York_C"
+    },
+    {
+        "name": "Containment Specialist",
+        "id": "CID_906_Athena_Commando_M_York_B"
+    },
+    {
+        "name": "Curse Buster",
+        "id": "CID_913_Athena_Commando_F_York_D"
+    },
+    {
+        "name": "Paranormal Guide",
+        "id": "CID_909_Athena_Commando_M_York_E"
+    },
+    {
+        "name": "Haunt Officer",
+        "id": "CID_908_Athena_Commando_M_York_D"
+    },
+    {
+        "name": "Phantom Commando",
+        "id": "CID_912_Athena_Commando_F_York_C"
+    },
+    {
+        "name": "Specter Inspector",
+        "id": "CID_911_Athena_Commando_F_York_B"
+    },
+    {
+        "name": "Aura Analyzer",
+        "id": "CID_910_Athena_Commando_F_York"
+    },
+    {
+        "name": "Spirit Sniper",
+        "id": "CID_914_Athena_Commando_F_York_E"
+    },
+    {
+        "name": "The Good Doctor",
+        "id": "CID_904_Athena_Commando_M_Jekyll"
+    },
+    {
+        "name": "Madcap",
+        "id": "CID_610_Athena_Commando_M_ShiitakeShaolin"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_561_Athena_Commando_M_RebirthDefaultB"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_563_Athena_Commando_M_RebirthDefaultD"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_559_Athena_Commando_F_RebirthDefaultD"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_562_Athena_Commando_M_RebirthDefaultC"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_557_Athena_Commando_F_RebirthDefaultB"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_558_Athena_Commando_F_RebirthDefaultC"
+    },
+    {
+        "name": "Eternal Knight",
+        "id": "CID_767_Athena_Commando_F_BlackKnight"
+    },
+    {
+        "name": "Loserfruit",
+        "id": "CID_764_Athena_Commando_F_Loofah"
+    },
+    {
+        "name": "Siona",
+        "id": "CID_765_Athena_Commando_F_SpaceWanderer"
+    },
+    {
+        "name": "Wild Gunner",
+        "id": "CID_762_Athena_Commando_M_BrightGunnerSpy"
+    },
+    {
+        "name": "Goldie",
+        "id": "CID_759_Athena_Commando_F_RapVillainess"
+    },
+    {
+        "name": "Astro Jack",
+        "id": "CID_761_Athena_Commando_M_CycloneSpace"
+    },
+    {
+        "name": "Shimmer Specialist",
+        "id": "CID_763_Athena_Commando_F_ShinyJacket"
+    },
+    {
+        "name": "Sig",
+        "id": "CID_758_Athena_Commando_M_TechExplorer"
+    },
+    {
+        "name": "Wildcat",
+        "id": "CID_757_Athena_Commando_F_WildCat"
+    },
+    {
+        "name": "Nightlife",
+        "id": "CID_760_Athena_Commando_F_NeonTightSuit"
+    },
+    {
+        "name": "Envision",
+        "id": "CID_754_Athena_Commando_F_RaveNinja"
+    },
+    {
+        "name": "Agent Jonesy",
+        "id": "CID_756_Athena_Commando_M_JonesyAgent"
+    },
+    {
+        "name": "Guff",
+        "id": "CID_752_Athena_Commando_M_Comet"
+    },
+    {
+        "name": "Rue",
+        "id": "CID_753_Athena_Commando_F_Hostile"
+    },
+    {
+        "name": "Wolf",
+        "id": "CID_755_Athena_Commando_M_Splinter"
+    },
+    {
+        "name": "Vix",
+        "id": "CID_751_Athena_Commando_F_NeonCatSpy"
+    },
+    {
+        "name": "Siren",
+        "id": "CID_748_Athena_Commando_F_Hitman"
+    },
+    {
+        "name": "Renegade Shadow",
+        "id": "CID_747_Athena_Commando_M_BadEgg"
+    },
+    {
+        "name": "Quackling",
+        "id": "CID_744_Athena_Commando_F_DuckHero"
+    },
+    {
+        "name": "Redux",
+        "id": "CID_743_Athena_Commando_M_Handyman"
+    },
+    {
+        "name": "Yellowjacket",
+        "id": "CID_749_Athena_Commando_F_GraffitiAssassin"
+    },
+    {
+        "name": "Cyclo",
+        "id": "CID_750_Athena_Commando_M_Hurricane"
+    },
+    {
+        "name": "Stella",
+        "id": "CID_741_Athena_Commando_F_HalloweenBunnySpring"
+    },
+    {
+        "name": "Boxer",
+        "id": "CID_739_Athena_Commando_M_CardboardCrew"
+    },
+    {
+        "name": "Bun Bun",
+        "id": "CID_742_Athena_Commando_M_ChocoBunny"
+    },
+    {
+        "name": "Boxy",
+        "id": "CID_740_Athena_Commando_F_CardboardCrew"
+    },
+    {
+        "name": "Synth",
+        "id": "CID_735_Athena_Commando_M_Informer"
+    },
+    {
+        "name": "Master Minotaur",
+        "id": "CID_728_Athena_Commando_M_MinotaurLuck"
+    },
+    {
+        "name": "Crimson Elite",
+        "id": "CID_733_Athena_Commando_M_BannerRed"
+    },
+    {
+        "name": "Tailor",
+        "id": "CID_727_Athena_Commando_M_Tailor"
+    },
+    {
+        "name": "Hit Man",
+        "id": "CID_726_Athena_Commando_M_TargetPractice"
+    },
+    {
+        "name": "Envoy",
+        "id": "CID_725_Athena_Commando_F_AgentX"
+    },
+    {
+        "name": "Wiretap",
+        "id": "CID_724_Athena_Commando_M_SpyTech"
+    },
+    {
+        "name": "Contract Giller",
+        "id": "CID_722_Athena_Commando_M_TeriyakiFishAssassin"
+    },
+    {
+        "name": "Blockade Runner",
+        "id": "CID_723_Athena_Commando_F_SpyTech"
+    },
+    {
+        "name": "Zina",
+        "id": "CID_721_Athena_Commando_F_PineappleBandit"
+    },
+    {
+        "name": "Penny",
+        "id": "CID_719_Athena_Commando_F_Blonde"
+    },
+    {
+        "name": "Clover Team Leader",
+        "id": "CID_718_Athena_Commando_F_LuckyHero"
+    },
+    {
+        "name": "Chance",
+        "id": "CID_720_Athena_Commando_F_StreetFashionEmerald"
+    },
+    {
+        "name": "Echo",
+        "id": "CID_715_Athena_Commando_F_TwinDark"
+    },
+    {
+        "name": "Professor Slurpo",
+        "id": "CID_716_Athena_Commando_M_BlueFlames"
+    },
+    {
+        "name": "Slurpentine",
+        "id": "CID_717_Athena_Commando_F_BlueFlames"
+    },
+    {
+        "name": "Hugo",
+        "id": "CID_712_Athena_Commando_M_Spy"
+    },
+    {
+        "name": "Farmer Steel",
+        "id": "CID_714_Athena_Commando_M_AnarchyAcresFarmer"
+    },
+    {
+        "name": "Slurp Leviathan",
+        "id": "CID_710_Athena_Commando_M_FishheadSlurp"
+    },
+    {
+        "name": "Slurp Bandolette",
+        "id": "CID_709_Athena_Commando_F_BandolierSlurp"
+    },
+    {
+        "name": "GHOST Enforcer",
+        "id": "CID_707_Athena_Commando_M_HenchmanGood_9OBH6"
+    },
+    {
+        "name": "Scarlet Commander",
+        "id": "CID_734_Athena_Commando_F_BannerRed"
+    },
+    {
+        "name": "Slurp Jonesy",
+        "id": "CID_708_Athena_Commando_M_SoldierSlurp"
+    },
+    {
+        "name": "Point Patroller",
+        "id": "CID_711_Athena_Commando_M_LongShorts"
+    },
+    {
+        "name": "Harley Quinn",
+        "id": "CID_704_Athena_Commando_F_LollipopTrickster"
+    },
+    {
+        "name": "SHADOW Enforcer",
+        "id": "CID_706_Athena_Commando_M_HenchmanBad_34LVU"
+    },
+    {
+        "name": "Travis Scott",
+        "id": "CID_703_Athena_Commando_M_Cyclone"
+    },
+    {
+        "name": "Candyman",
+        "id": "CID_700_Athena_Commando_M_Candy"
+    },
+    {
+        "name": "Agent Peely",
+        "id": "CID_701_Athena_Commando_M_BananaAgent"
+    },
+    {
+        "name": "Ex",
+        "id": "CID_702_Athena_Commando_M_AssassinX"
+    },
+    {
+        "name": "Mystify",
+        "id": "CID_697_Athena_Commando_F_GraffitiFuture"
+    },
+    {
+        "name": "Pinkie",
+        "id": "CID_698_Athena_Commando_M_CuteDuo"
+    },
+    {
+        "name": "Lovethorn",
+        "id": "CID_696_Athena_Commando_F_DarkHeart"
+    },
+    {
+        "name": "Crusher",
+        "id": "CID_699_Athena_Commando_F_BrokenHeart"
+    },
+    {
+        "name": "TNTina",
+        "id": "CID_691_Athena_Commando_F_TNTina"
+    },
+    {
+        "name": "Meowscles",
+        "id": "CID_693_Athena_Commando_M_BuffCat"
+    },
+    {
+        "name": "Gear Specialist Maya",
+        "id": "CID_695_Athena_Commando_F_DesertOpsCamo"
+    },
+    {
+        "name": "Tek",
+        "id": "CID_687_Athena_Commando_M_AgentAce"
+    },
+    {
+        "name": "Deadlock",
+        "id": "CID_689_Athena_Commando_M_SpyTechHacker"
+    },
+    {
+        "name": "Skye",
+        "id": "CID_690_Athena_Commando_F_Photographer"
+    },
+    {
+        "name": "Terra",
+        "id": "CID_688_Athena_Commando_F_AgentRogue"
+    },
+    {
+        "name": "Tigeress",
+        "id": "CID_683_Athena_Commando_F_TigerFashion"
+    },
+    {
+        "name": "Jade Racer",
+        "id": "CID_684_Athena_Commando_F_DragonRacer"
+    },
+    {
+        "name": "Caution",
+        "id": "CID_685_Athena_Commando_M_TundraYellow"
+    },
+    {
+        "name": "Smoke Dragon",
+        "id": "CID_682_Athena_Commando_M_VirtualShadow"
+    },
+    {
+        "name": "Gan",
+        "id": "CID_681_Athena_Commando_M_MartialArtist"
+    },
+    {
+        "name": "Swift",
+        "id": "CID_680_Athena_Commando_M_StreetRat"
+    },
+    {
+        "name": "Shadow Archetype",
+        "id": "CID_679_Athena_Commando_M_ModernMilitaryEclipse"
+    },
+    {
+        "name": "Tango",
+        "id": "CID_676_Athena_Commando_M_CODSquadHoodie"
+    },
+    {
+        "name": "Bull Shark",
+        "id": "CID_677_Athena_Commando_M_SharkAttack"
+    },
+    {
+        "name": "Iris",
+        "id": "CID_674_Athena_Commando_F_HoodieBandit"
+    },
+    {
+        "name": "Oro",
+        "id": "CID_675_Athena_Commando_M_TheGoldenSkeleton"
+    },
+    {
+        "name": "Hailstorm",
+        "id": "CID_672_Athena_Commando_F_ArcticCamo_Gray"
+    },
+    {
+        "name": "Chill Count",
+        "id": "CID_673_Athena_Commando_F_ArcticCamo_Slate"
+    },
+    {
+        "name": "Chillout",
+        "id": "CID_669_Athena_Commando_M_ArcticCamo_Slate"
+    },
+    {
+        "name": "Ice Intercept",
+        "id": "CID_671_Athena_Commando_F_ArcticCamo_Dark"
+    },
+    {
+        "name": "Snow Sniper",
+        "id": "CID_670_Athena_Commando_F_ArcticCamo"
+    },
+    {
+        "name": "Arctic Intel",
+        "id": "CID_668_Athena_Commando_M_ArcticCamo_Gray"
+    },
+    {
+        "name": "Snow Striker",
+        "id": "CID_666_Athena_Commando_M_ArcticCamo"
+    },
+    {
+        "name": "Ice Stalker",
+        "id": "CID_667_Athena_Commando_M_ArcticCamo_Dark"
+    },
+    {
+        "name": "Jellie",
+        "id": "CID_664_Athena_Commando_M_Gummi"
+    },
+    {
+        "name": "Komplex",
+        "id": "CID_665_Athena_Commando_F_NeonGraffiti"
+    },
+    {
+        "name": "Clash",
+        "id": "CID_663_Athena_Commando_F_Frogman"
+    },
+    {
+        "name": "Bonehead",
+        "id": "CID_662_Athena_Commando_M_FlameSkull"
+    },
+    {
+        "name": "Snow Patroller",
+        "id": "CID_659_Athena_Commando_M_MrIceGuy"
+    },
+    {
+        "name": "Indigo Kuno",
+        "id": "CID_660_Athena_Commando_F_BandageNinjaBlue"
+    },
+    {
+        "name": "Frozen Fishstick",
+        "id": "CID_656_Athena_Commando_M_TeriyakiFishFreezerBurn"
+    },
+    {
+        "name": "Monks",
+        "id": "CID_658_Athena_Commando_F_ToyMonkey"
+    },
+    {
+        "name": "Trilogy",
+        "id": "CID_657_Athena_Commando_F_TechOpsBlue"
+    },
+    {
+        "name": "Flatfoot",
+        "id": "CID_655_Athena_Commando_F_Barefoot"
+    },
+    {
+        "name": "Cozy Commander",
+        "id": "CID_652_Athena_Commando_F_HolidayPJ_D"
+    },
+    {
+        "name": "Frozen Nog Ops",
+        "id": "CID_653_Athena_Commando_F_UglySweaterFrozen"
+    },
+    {
+        "name": "Frosted Flurry",
+        "id": "CID_654_Athena_Commando_F_GiftWrap"
+    },
+    {
+        "name": "Jolly Jammer",
+        "id": "CID_651_Athena_Commando_F_HolidayPJ_C"
+    },
+    {
+        "name": "Shiver",
+        "id": "CID_647_Athena_Commando_F_WingedFury"
+    },
+    {
+        "name": "Arctica",
+        "id": "CID_648_Athena_Commando_F_MsAlpine"
+    },
+    {
+        "name": "PJ Patroller",
+        "id": "CID_649_Athena_Commando_F_HolidayPJ"
+    },
+    {
+        "name": "Holly Jammer",
+        "id": "CID_650_Athena_Commando_F_HolidayPJ_B"
+    },
+    {
+        "name": "The Devourer",
+        "id": "CID_644_Athena_Commando_M_Cattus"
+    },
+    {
+        "name": "Wooly Warrior",
+        "id": "CID_645_Athena_Commando_F_Wolly"
+    },
+    {
+        "name": "Lt. Evergreen",
+        "id": "CID_643_Athena_Commando_M_OrnamentSoldier"
+    },
+    {
+        "name": "Cutiepie",
+        "id": "CID_646_Athena_Commando_F_ElfAttack"
+    },
+    {
+        "name": "Dolph",
+        "id": "CID_641_Athena_Commando_M_SweaterWeather"
+    },
+    {
+        "name": "Polar Patroller",
+        "id": "CID_640_Athena_Commando_M_TacticalBear"
+    },
+    {
+        "name": "Astra",
+        "id": "CID_642_Athena_Commando_F_ConstellationStar"
+    },
+    {
+        "name": "Bunnywolf",
+        "id": "CID_639_Athena_Commando_F_NeonAnimal"
+    },
+    {
+        "name": "Sith Trooper",
+        "id": "CID_635_Athena_Commando_M_GalileoSled_FHJVM"
+    },
+    {
+        "name": "Set_01_OA",
+        "id": "CID_636_Athena_Commando_M_GalileoGondola_78MFZ"
+    },
+    {
+        "name": "Set_01_PA",
+        "id": "CID_637_Athena_Commando_M_GalileoOutrigger_7Q0YU"
+    },
+    {
+        "name": "LLion",
+        "id": "CID_638_Athena_Commando_M_NeonAnimal"
+    },
+    {
+        "name": "Rey",
+        "id": "CID_634_Athena_Commando_F_GalileoRocket_ARVEH"
+    },
+    {
+        "name": "Finn",
+        "id": "CID_633_Athena_Commando_M_GalileoFerry_PA3E1"
+    },
+    {
+        "name": "Zorii Bliss",
+        "id": "CID_632_Athena_Commando_F_GalileoZeppelin_SJKPW"
+    },
+    {
+        "name": "Kylo Ren",
+        "id": "CID_631_Athena_Commando_M_GalileoKayak_VXLDB"
+    },
+    {
+        "name": "Yule Trooper",
+        "id": "CID_628_Athena_Commando_M_HolidayTime"
+    },
+    {
+        "name": "Globe Shaker",
+        "id": "CID_629_Athena_Commando_M_SnowGlobe"
+    },
+    {
+        "name": "Bundles",
+        "id": "CID_627_Athena_Commando_F_SnufflesLeader"
+    },
+    {
+        "name": "Kane",
+        "id": "CID_630_Athena_Commando_M_Kane"
+    },
+    {
+        "name": "Stingray",
+        "id": "CID_623_Athena_Commando_M_Frogman"
+    },
+    {
+        "name": "Zadie",
+        "id": "CID_625_Athena_Commando_F_PinkTrooper"
+    },
+    {
+        "name": "Triggerfish",
+        "id": "CID_624_Athena_Commando_M_TeriyakiWarrior"
+    },
+    {
+        "name": "Metal Mouth",
+        "id": "CID_626_Athena_Commando_M_PinkTrooper"
+    },
+    {
+        "name": "Brilliant Bomber",
+        "id": "CID_619_Athena_Commando_F_TechLlama"
+    },
+    {
+        "name": "Big Chuggus",
+        "id": "CID_620_Athena_Commando_L_BigChuggus"
+    },
+    {
+        "name": "Sklaxis",
+        "id": "CID_621_Athena_Commando_M_BoneSnake"
+    },
+    {
+        "name": "Depth Dealer",
+        "id": "CID_622_Athena_Commando_M_BulletBlue"
+    },
+    {
+        "name": "Sorana",
+        "id": "CID_615_Athena_Commando_F_Bane"
+    },
+    {
+        "name": "Hush",
+        "id": "CID_616_Athena_Commando_F_CavalryBandit"
+    },
+    {
+        "name": "The Autumn Queen",
+        "id": "CID_617_Athena_Commando_F_ForestQueen"
+    },
+    {
+        "name": "Terns",
+        "id": "CID_618_Athena_Commando_M_ForestDweller"
+    },
+    {
+        "name": "Riley",
+        "id": "CID_612_Athena_Commando_F_StreetOpsPink"
+    },
+    {
+        "name": "The Brat",
+        "id": "CID_614_Athena_Commando_M_MissingLink"
+    },
+    {
+        "name": "Imperial Stormtrooper",
+        "id": "CID_613_Athena_Commando_M_Columbus_7Y4QE"
+    },
+    {
+        "name": "Bushranger",
+        "id": "CID_611_Athena_Commando_M_WeepingWoods"
+    },
+    {
+        "name": "Wake Rider",
+        "id": "CID_607_Athena_Commando_M_JetSki"
+    },
+    {
+        "name": "Trench Raider",
+        "id": "CID_609_Athena_Commando_M_Submariner"
+    },
+    {
+        "name": "Ninja",
+        "id": "CID_605_Athena_Commando_M_TourBus"
+    },
+    {
+        "name": "Surf Rider",
+        "id": "CID_606_Athena_Commando_F_JetSki"
+    },
+    {
+        "name": "Willow",
+        "id": "CID_601_Athena_Commando_F_Palespooky"
+    },
+    {
+        "name": "Peely Bone",
+        "id": "CID_602_Athena_Commando_M_NanaSplit"
+    },
+    {
+        "name": "Razor",
+        "id": "CID_604_Athena_Commando_F_Razor"
+    },
+    {
+        "name": "Blacklight",
+        "id": "CID_603_Athena_Commando_M_SpookyNeon"
+    },
+    {
+        "name": "Chaos Agent",
+        "id": "CID_598_Athena_Commando_M_Mastermind"
+    },
+    {
+        "name": "Big Mouth",
+        "id": "CID_597_Athena_Commando_M_Freak"
+    },
+    {
+        "name": "Wrath",
+        "id": "CID_599_Athena_Commando_M_Phantom"
+    },
+    {
+        "name": "Deadeye",
+        "id": "CID_600_Athena_Commando_M_SkeletonHunter"
+    },
+    {
+        "name": "Putrid Playmaker",
+        "id": "CID_594_Athena_Commando_F_SoccerZombieB"
+    },
+    {
+        "name": "Fatal Finisher",
+        "id": "CID_595_Athena_Commando_F_SoccerZombieC"
+    },
+    {
+        "name": "Crypt Crosser",
+        "id": "CID_596_Athena_Commando_F_SoccerZombieD"
+    },
+    {
+        "name": "Decaying Dribbler",
+        "id": "CID_593_Athena_Commando_F_SoccerZombieA"
+    },
+    {
+        "name": "Dominion",
+        "id": "CID_587_Athena_Commando_M_DevilRock"
+    },
+    {
+        "name": "Midfield Monstrosity",
+        "id": "CID_590_Athena_Commando_M_SoccerZombieB"
+    },
+    {
+        "name": "Delirium",
+        "id": "CID_588_Athena_Commando_M_GoatRobe"
+    },
+    {
+        "name": "Sinister Striker",
+        "id": "CID_589_Athena_Commando_M_SoccerZombieA"
+    },
+    {
+        "name": "Haze",
+        "id": "CID_586_Athena_Commando_F_PunkDevil"
+    },
+    {
+        "name": "Jawbreaker",
+        "id": "CID_583_Athena_Commando_F_NoshHunter"
+    },
+    {
+        "name": "Teef",
+        "id": "CID_584_Athena_Commando_M_Nosh"
+    },
+    {
+        "name": "Catrina",
+        "id": "CID_585_Athena_Commando_F_FlowerSkeleton"
+    },
+    {
+        "name": "Grim Fable",
+        "id": "CID_579_Athena_Commando_F_RedRidingRemix"
+    },
+    {
+        "name": "Dark Tricera Ops",
+        "id": "CID_582_Athena_Commando_F_DarkDino"
+    },
+    {
+        "name": "Dark Rex",
+        "id": "CID_581_Athena_Commando_M_DarkDino"
+    },
+    {
+        "name": "Snuggs",
+        "id": "CID_580_Athena_Commando_M_CuddleTeamDark"
+    },
+    {
+        "name": "Rustler",
+        "id": "CID_577_Athena_Commando_F_CODSquadPlaid"
+    },
+    {
+        "name": "Outcast",
+        "id": "CID_578_Athena_Commando_F_Fisherman"
+    },
+    {
+        "name": "Wavebreaker",
+        "id": "CID_575_Athena_Commando_F_BulletBlue"
+    },
+    {
+        "name": "Wrangler",
+        "id": "CID_576_Athena_Commando_M_CODSquadPlaid"
+    },
+    {
+        "name": "Dark Power Chord",
+        "id": "CID_574_Athena_Commando_F_CubeRockerPunk"
+    },
+    {
+        "name": "Zero",
+        "id": "CID_573_Athena_Commando_M_Haunt"
+    },
+    {
+        "name": "Cameo vs Chic",
+        "id": "CID_571_Athena_Commando_F_Sheath"
+    },
+    {
+        "name": "Fusion",
+        "id": "CID_572_Athena_Commando_M_Viper"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_568_Athena_Commando_M_RebirthSoldier"
+    },
+    {
+        "name": "Rippley vs Sludge",
+        "id": "CID_570_Athena_Commando_M_SlurpMonster"
+    },
+    {
+        "name": "Remedy vs Toxin",
+        "id": "CID_567_Athena_Commando_F_RebirthMedic"
+    },
+    {
+        "name": "8-Ball vs Scratch",
+        "id": "CID_566_Athena_Commando_M_CrazyEight"
+    },
+    {
+        "name": "Journey vs Hazard",
+        "id": "CID_565_Athena_Commando_F_RockClimber"
+    },
+    {
+        "name": "Turk vs Riptide",
+        "id": "CID_564_Athena_Commando_M_TacticalFisherman"
+    },
+    {
+        "name": "Brite Blaster",
+        "id": "CID_553_Athena_Commando_M_BrightGunnerRemix"
+    },
+    {
+        "name": "Ragsy",
+        "id": "CID_554_Athena_Commando_F_MilitiaMascotCuddle"
+    },
+    {
+        "name": "Vice",
+        "id": "CID_551_Athena_Commando_M_YellowCamoD"
+    },
+    {
+        "name": "Slingshot",
+        "id": "CID_552_Athena_Commando_F_TaxiUpgrade"
+    },
+    {
+        "name": "Deadfall",
+        "id": "CID_550_Athena_Commando_M_YellowCamoC"
+    },
+    {
+        "name": "Knockout",
+        "id": "CID_549_Athena_Commando_M_YellowCamoB"
+    },
+    {
+        "name": "Manic",
+        "id": "CID_546_Athena_Commando_F_TacticalRed"
+    },
+    {
+        "name": "The Paradigm",
+        "id": "CID_547_Athena_Commando_F_Meteorwoman"
+    },
+    {
+        "name": "Snakepit",
+        "id": "CID_548_Athena_Commando_M_YellowCamoA"
+    },
+    {
+        "name": "Red Jade",
+        "id": "CID_545_Athena_Commando_F_SushiNinja"
+    },
+    {
+        "name": "Bash",
+        "id": "CID_543_Athena_Commando_M_LlamaHero"
+    },
+    {
+        "name": "Street Striker",
+        "id": "CID_541_Athena_Commando_M_GraffitiGold"
+    },
+    {
+        "name": "Danger Zone",
+        "id": "CID_542_Athena_Commando_F_CarbideFrostMystery"
+    },
+    {
+        "name": "Kurohomura",
+        "id": "CID_544_Athena_Commando_M_Kurohomura"
+    },
+    {
+        "name": "Starlie",
+        "id": "CID_539_Athena_Commando_F_StreetGothCandy"
+    },
+    {
+        "name": "Guaco",
+        "id": "CID_538_Athena_Commando_M_Taco"
+    },
+    {
+        "name": "The Scientist",
+        "id": "CID_540_Athena_Commando_M_MeteorManRemix"
+    },
+    {
+        "name": "Hotwire",
+        "id": "CID_537_Athena_Commando_M_Jumpstart"
+    },
+    {
+        "name": "Toxic Tagger",
+        "id": "CID_533_Athena_Commando_M_StreetUrchin"
+    },
+    {
+        "name": "P-1000",
+        "id": "CID_534_Athena_Commando_M_PeelyMech"
+    },
+    {
+        "name": "Sizzle Sgt.",
+        "id": "CID_536_Athena_Commando_F_DurrburgerWorker"
+    },
+    {
+        "name": "Zorgoton",
+        "id": "CID_535_Athena_Commando_M_Traveler"
+    },
+    {
+        "name": "The Dark Knight Movie Outfit",
+        "id": "CID_529_Athena_Commando_M_BlackMondayKansas_HWD90"
+    },
+    {
+        "name": "Moxie",
+        "id": "CID_532_Athena_Commando_F_Punchy"
+    },
+    {
+        "name": "Slumber",
+        "id": "CID_531_Athena_Commando_M_Sleepytime"
+    },
+    {
+        "name": "Catwoman Comic Book Outfit",
+        "id": "CID_530_Athena_Commando_F_BlackMonday_1BV6J"
+    },
+    {
+        "name": "Swamp Stalker",
+        "id": "CID_526_Athena_Commando_F_DesertOpsSwamp"
+    },
+    {
+        "name": "Batman Comic Book Outfit",
+        "id": "CID_528_Athena_Commando_M_BlackMondayHouston_7DGBT"
+    },
+    {
+        "name": "Ruby",
+        "id": "CID_527_Athena_Commando_F_StreetFashionRed"
+    },
+    {
+        "name": "Limelight",
+        "id": "CID_525_Athena_Commando_F_LemonLime"
+    },
+    {
+        "name": "Sureshot",
+        "id": "CID_522_Athena_Commando_M_Bullseye"
+    },
+    {
+        "name": "Hard Charger",
+        "id": "CID_521_Athena_Commando_M_TacticalBiker"
+    },
+    {
+        "name": "Payback",
+        "id": "CID_524_Athena_Commando_F_FutureBikerWhite"
+    },
+    {
+        "name": "Stoneheart",
+        "id": "CID_523_Athena_Commando_F_Cupid"
+    },
+    {
+        "name": "Sledge",
+        "id": "CID_520_Athena_Commando_M_PaddedArmor"
+    },
+    {
+        "name": "Vulture",
+        "id": "CID_519_Athena_Commando_M_RaptorBlackOps"
+    },
+    {
+        "name": "Molten Omen",
+        "id": "CID_517_Athena_Commando_M_DarkEagleFire"
+    },
+    {
+        "name": "Rogue Spider Knight",
+        "id": "CID_516_Athena_Commando_M_BlackWidowRogue"
+    },
+    {
+        "name": "Psycho Bandit",
+        "id": "CID_515_Athena_Commando_M_BarbequeLarry"
+    },
+    {
+        "name": "Catastrophe",
+        "id": "CID_514_Athena_Commando_F_ToxicKitty"
+    },
+    {
+        "name": "Dark Jonesy",
+        "id": "CID_513_Athena_Commando_M_CubePaintJonesy"
+    },
+    {
+        "name": "Dark Red Knight",
+        "id": "CID_512_Athena_Commando_F_CubePaintRedKnight"
+    },
+    {
+        "name": "Dark Wild Card",
+        "id": "CID_511_Athena_Commando_M_CubePaintWildCard"
+    },
+    {
+        "name": "Oppressor",
+        "id": "CID_508_Athena_Commando_M_Syko"
+    },
+    {
+        "name": "Shadow Ark",
+        "id": "CID_510_Athena_Commando_F_AngelEclipse"
+    },
+    {
+        "name": "Shifu",
+        "id": "CID_509_Athena_Commando_M_WiseMaster"
+    },
+    {
+        "name": "Infinity",
+        "id": "CID_507_Athena_Commando_M_StarWalker"
+    },
+    {
+        "name": "Recon Ranger",
+        "id": "CID_503_Athena_Commando_F_TacticalWoodlandFuture"
+    },
+    {
+        "name": "Gutbomb",
+        "id": "CID_505_Athena_Commando_M_MilitiaMascotBurger"
+    },
+    {
+        "name": "Hothouse",
+        "id": "CID_506_Athena_Commando_M_MilitiaMascotTomato"
+    },
+    {
+        "name": "Fennix",
+        "id": "CID_504_Athena_Commando_M_Lopex"
+    },
+    {
+        "name": "Corrupted Voyager",
+        "id": "CID_499_Athena_Commando_F_AstronautEvil"
+    },
+    {
+        "name": "Hot Zone",
+        "id": "CID_501_Athena_Commando_M_FrostMystery"
+    },
+    {
+        "name": "Freestyle",
+        "id": "CID_502_Athena_Commando_F_Reverb"
+    },
+    {
+        "name": "Frontier",
+        "id": "CID_498_Athena_Commando_M_WildWest"
+    },
+    {
+        "name": "Grit",
+        "id": "CID_496_Athena_Commando_M_SurvivalSpecialist"
+    },
+    {
+        "name": "Rio Grande",
+        "id": "CID_497_Athena_Commando_F_WildWest"
+    },
+    {
+        "name": "B.R.U.T.E. Gunner",
+        "id": "CID_495_Athena_Commando_F_MechPilotShark"
+    },
+    {
+        "name": "B.R.U.T.E. Navigator",
+        "id": "CID_494_Athena_Commando_M_MechPilotShark"
+    },
+    {
+        "name": "Bravo Leader",
+        "id": "CID_490_Athena_Commando_M_BlueBadass"
+    },
+    {
+        "name": "Bone Wasp",
+        "id": "CID_491_Athena_Commando_M_BoneWasp"
+    },
+    {
+        "name": "Crystal",
+        "id": "CID_493_Athena_Commando_F_JurassicArchaeology"
+    },
+    {
+        "name": "Bronto",
+        "id": "CID_492_Athena_Commando_M_Bronto"
+    },
+    {
+        "name": "Eternal Voyager",
+        "id": "CID_489_Athena_Commando_M_VoyagerRemix"
+    },
+    {
+        "name": "X-Lord",
+        "id": "CID_488_Athena_Commando_M_RustRemix"
+    },
+    {
+        "name": "Y0ND3R",
+        "id": "CID_487_Athena_Commando_M_DJRemix"
+    },
+    {
+        "name": "Catalyst",
+        "id": "CID_486_Athena_Commando_F_StreetRacerDrift"
+    },
+    {
+        "name": "Sparkle Supreme",
+        "id": "CID_485_Athena_Commando_F_SparkleRemix"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_556_Athena_Commando_F_RebirthDefaultA"
+    },
+    {
+        "name": "PJ Pepperoni",
+        "id": "CID_482_Athena_Commando_F_PizzaPit"
+    },
+    {
+        "name": "Tilted Teknique",
+        "id": "CID_483_Athena_Commando_F_GraffitiRemix"
+    },
+    {
+        "name": "Ultima Knight",
+        "id": "CID_484_Athena_Commando_M_KnightRemix"
+    },
+    {
+        "name": "Bubble Bomber",
+        "id": "CID_480_Athena_Commando_F_Bubblegum"
+    },
+    {
+        "name": "Astro Assassin",
+        "id": "CID_477_Athena_Commando_F_SpaceSuit"
+    },
+    {
+        "name": "World Warrior",
+        "id": "CID_478_Athena_Commando_F_WorldCup"
+    },
+    {
+        "name": "Mika",
+        "id": "CID_476_Athena_Commando_F_FutureBiker"
+    },
+    {
+        "name": "Mecha Team Leader",
+        "id": "CID_475_Athena_Commando_M_Multibot"
+    },
+    {
+        "name": "Copper Wasp",
+        "id": "CID_473_Athena_Commando_M_CyberKarate"
+    },
+    {
+        "name": "Major Lazer",
+        "id": "CID_474_Athena_Commando_M_Lasagna"
+    },
+    {
+        "name": "Tsuki",
+        "id": "CID_472_Athena_Commando_F_CyberKarate"
+    },
+    {
+        "name": "Anarchy Agent",
+        "id": "CID_470_Athena_Commando_M_Anarchy"
+    },
+    {
+        "name": "Bachii",
+        "id": "CID_471_Athena_Commando_F_Bani"
+    },
+    {
+        "name": "Match Point",
+        "id": "CID_468_Athena_Commando_F_TennisWhite"
+    },
+    {
+        "name": "Singularity",
+        "id": "CID_469_Athena_Commando_F_BattleSuit"
+    },
+    {
+        "name": "Glow",
+        "id": "CID_479_Athena_Commando_F_Davinci"
+    },
+    {
+        "name": "Gage",
+        "id": "CID_465_Athena_Commando_M_PuffyVest"
+    },
+    {
+        "name": "Chief Hopper",
+        "id": "CID_467_Athena_Commando_M_WeirdObjectsPolice"
+    },
+    {
+        "name": "Bigfoot",
+        "id": "CID_463_Athena_Commando_M_Hairy"
+    },
+    {
+        "name": "King Flamingo",
+        "id": "CID_464_Athena_Commando_M_Flamingo"
+    },
+    {
+        "name": "Demogorgon",
+        "id": "CID_466_Athena_Commando_M_WeirdObjectsCreature"
+    },
+    {
+        "name": "Beach Bomber",
+        "id": "CID_460_Athena_Commando_F_BriteBomberSummer"
+    },
+    {
+        "name": "Summer Drift",
+        "id": "CID_461_Athena_Commando_M_DriftSummer"
+    },
+    {
+        "name": "Heist",
+        "id": "CID_462_Athena_Commando_M_HeistSummer"
+    },
+    {
+        "name": "Dare",
+        "id": "CID_457_Athena_Commando_F_SpaceGirl"
+    },
+    {
+        "name": "Vector",
+        "id": "CID_458_Athena_Commando_M_TechMage"
+    },
+    {
+        "name": "Biz",
+        "id": "CID_459_Athena_Commando_F_Zodiac"
+    },
+    {
+        "name": "Flare",
+        "id": "CID_454_Athena_Commando_M_GlowBro"
+    },
+    {
+        "name": "Doublecross",
+        "id": "CID_456_Athena_Commando_F_Sarong"
+    },
+    {
+        "name": "Facet",
+        "id": "CID_481_Athena_Commando_F_Geode"
+    },
+    {
+        "name": "Focus",
+        "id": "CID_452_Athena_Commando_F_CyberFu"
+    },
+    {
+        "name": "Pillar",
+        "id": "CID_451_Athena_Commando_M_Caterpillar"
+    },
+    {
+        "name": "Nitebeam",
+        "id": "CID_453_Athena_Commando_F_GlowBro"
+    },
+    {
+        "name": "Branded Brawler",
+        "id": "CID_448_Athena_Commando_M_BannerC"
+    },
+    {
+        "name": "Lt. Logo",
+        "id": "CID_449_Athena_Commando_M_BannerD"
+    },
+    {
+        "name": "Flutter",
+        "id": "CID_450_Athena_Commando_F_Butterfly"
+    },
+    {
+        "name": "Starfish",
+        "id": "CID_455_Athena_Commando_F_Jellyfish"
+    },
+    {
+        "name": "Marked Marauder",
+        "id": "CID_445_Athena_Commando_F_BannerD"
+    },
+    {
+        "name": "Symbol Stalwart",
+        "id": "CID_446_Athena_Commando_M_BannerA"
+    },
+    {
+        "name": "Signature Sniper",
+        "id": "CID_447_Athena_Commando_M_BannerB"
+    },
+    {
+        "name": "Branded Brigadier",
+        "id": "CID_444_Athena_Commando_F_BannerC"
+    },
+    {
+        "name": "Neo Versa",
+        "id": "CID_441_Athena_Commando_F_CyberScavengerBlue"
+    },
+    {
+        "name": "Toy Trooper",
+        "id": "CID_440_Athena_Commando_F_BullseyeGreenPlastic"
+    },
+    {
+        "name": "Sgt. Sigil",
+        "id": "CID_443_Athena_Commando_F_BannerB"
+    },
+    {
+        "name": "Banner Trooper",
+        "id": "CID_442_Athena_Commando_F_BannerA"
+    },
+    {
+        "name": "Shadowbird",
+        "id": "CID_437_Athena_Commando_F_AztecEclipse"
+    },
+    {
+        "name": "Relay",
+        "id": "CID_436_Athena_Commando_M_ReconSpecialist"
+    },
+    {
+        "name": "Perfect Shadow",
+        "id": "CID_438_Athena_Commando_M_WinterGhoulEclipse"
+    },
+    {
+        "name": "Shadow Skully",
+        "id": "CID_439_Athena_Commando_F_SkullBriteEclipse"
+    },
+    {
+        "name": "Airhead",
+        "id": "CID_432_Athena_Commando_M_BalloonHead"
+    },
+    {
+        "name": "Desert Dominator",
+        "id": "CID_433_Athena_Commando_F_TacticalDesert"
+    },
+    {
+        "name": "Wonder",
+        "id": "CID_434_Athena_Commando_F_StealthHonor"
+    },
+    {
+        "name": "Plastic Patroller",
+        "id": "CID_435_Athena_Commando_M_MunitionsExpertGreenPlastic"
+    },
+    {
+        "name": "Breakpoint",
+        "id": "CID_429_Athena_Commando_F_NeonLines"
+    },
+    {
+        "name": "Shot Caller",
+        "id": "CID_428_Athena_Commando_M_UrbanScavenger"
+    },
+    {
+        "name": "Bolt",
+        "id": "CID_431_Athena_Commando_F_StormPilot"
+    },
+    {
+        "name": "Tempest",
+        "id": "CID_430_Athena_Commando_M_StormSoldier"
+    },
+    {
+        "name": "Callisto",
+        "id": "CID_426_Athena_Commando_F_DemonHunter"
+    },
+    {
+        "name": "Asmodeus",
+        "id": "CID_427_Athena_Commando_M_DemonHunter"
+    },
+    {
+        "name": "Grind",
+        "id": "CID_424_Athena_Commando_M_Vigilante"
+    },
+    {
+        "name": "Synapse",
+        "id": "CID_425_Athena_Commando_F_CyberRunner"
+    },
+    {
+        "name": "Sandstorm",
+        "id": "CID_422_Athena_Commando_F_MaskedWarrior"
+    },
+    {
+        "name": "Clutch",
+        "id": "CID_423_Athena_Commando_F_Painter"
+    },
+    {
+        "name": "Wilde",
+        "id": "CID_420_Athena_Commando_F_WhiteTiger"
+    },
+    {
+        "name": "Scimitar",
+        "id": "CID_421_Athena_Commando_M_MaskedWarrior"
+    },
+    {
+        "name": "John Wick",
+        "id": "CID_416_Athena_Commando_M_AssassinSuit"
+    },
+    {
+        "name": "Takara",
+        "id": "CID_418_Athena_Commando_F_Geisha"
+    },
+    {
+        "name": "Doggo",
+        "id": "CID_419_Athena_Commando_M_Pug"
+    },
+    {
+        "name": "Sofia",
+        "id": "CID_415_Athena_Commando_F_AssassinSuit"
+    },
+    {
+        "name": "Versa",
+        "id": "CID_411_Athena_Commando_F_CyberScavenger"
+    },
+    {
+        "name": "Velocity",
+        "id": "CID_412_Athena_Commando_F_Raptor"
+    },
+    {
+        "name": "Cryptic",
+        "id": "CID_413_Athena_Commando_M_StreetDemon"
+    },
+    {
+        "name": "Bracer",
+        "id": "CID_414_Athena_Commando_F_MilitaryFashion"
+    },
+    {
+        "name": "Vendetta",
+        "id": "CID_407_Athena_Commando_M_BattleSuit"
+    },
+    {
+        "name": "Rox",
+        "id": "CID_408_Athena_Commando_F_StrawberryPilot"
+    },
+    {
+        "name": "Ether",
+        "id": "CID_410_Athena_Commando_M_CyberScavenger"
+    },
+    {
+        "name": "Bunker Jonesy",
+        "id": "CID_409_Athena_Commando_M_BunkerMan"
+    },
+    {
+        "name": "Vega",
+        "id": "CID_404_Athena_Commando_F_BountyHunter"
+    },
+    {
+        "name": "Demi",
+        "id": "CID_405_Athena_Commando_F_Masako"
+    },
+    {
+        "name": "Sentinel",
+        "id": "CID_403_Athena_Commando_M_Rooster"
+    },
+    {
+        "name": "Stratus",
+        "id": "CID_406_Athena_Commando_M_StormTracker"
+    },
+    {
+        "name": "Cole",
+        "id": "CID_401_Athena_Commando_M_Miner"
+    },
+    {
+        "name": "Guild",
+        "id": "CID_398_Athena_Commando_M_TreasureHunterFashion"
+    },
+    {
+        "name": "Aura",
+        "id": "CID_397_Athena_Commando_F_TreasureHunterFashion"
+    },
+    {
+        "name": "Sterling",
+        "id": "CID_393_Athena_Commando_M_Shiny"
+    },
+    {
+        "name": "Luminos",
+        "id": "CID_394_Athena_Commando_M_MoonlightAssassin"
+    },
+    {
+        "name": "Dream",
+        "id": "CID_395_Athena_Commando_F_ShatterFly"
+    },
+    {
+        "name": "Nitehare",
+        "id": "CID_390_Athena_Commando_M_EvilBunny"
+    },
+    {
+        "name": "Pastel",
+        "id": "CID_392_Athena_Commando_F_BountyBunny"
+    },
+    {
+        "name": "Hopper",
+        "id": "CID_391_Athena_Commando_M_HoppityHeist"
+    },
+    {
+        "name": "Stealth Reflex",
+        "id": "CID_386_Athena_Commando_M_StreetOpsStealth"
+    },
+    {
+        "name": "Splode",
+        "id": "CID_388_Athena_Commando_M_TheBomb"
+    },
+    {
+        "name": "Birdie",
+        "id": "CID_387_Athena_Commando_F_Golf"
+    },
+    {
+        "name": "Daring Duelist",
+        "id": "CID_396_Athena_Commando_F_Swashbuckler"
+    },
+    {
+        "name": "Prickly Patroller",
+        "id": "CID_383_Athena_Commando_F_Cacti"
+    },
+    {
+        "name": "Red Strike",
+        "id": "CID_384_Athena_Commando_M_StreetAssassin"
+    },
+    {
+        "name": "Supersonic",
+        "id": "CID_385_Athena_Commando_M_PilotSkull"
+    },
+    {
+        "name": "Slugger",
+        "id": "CID_382_Athena_Commando_M_BaseballKitbash"
+    },
+    {
+        "name": "Fastball",
+        "id": "CID_381_Athena_Commando_F_BaseballKitbash"
+    },
+    {
+        "name": "Nightwitch",
+        "id": "CID_377_Athena_Commando_F_DarkShaman"
+    },
+    {
+        "name": "Molten Battle Hound",
+        "id": "CID_379_Athena_Commando_M_BattleHoundFire"
+    },
+    {
+        "name": "Ruin",
+        "id": "CID_378_Athena_Commando_M_FurnaceFace"
+    },
+    {
+        "name": "Molten Valkyrie",
+        "id": "CID_380_Athena_Commando_F_DarkViking_Fire"
+    },
+    {
+        "name": "Sea Wolf",
+        "id": "CID_373_Athena_Commando_M_Pirate01"
+    },
+    {
+        "name": "Buccaneer",
+        "id": "CID_372_Athena_Commando_F_Pirate01"
+    },
+    {
+        "name": "Shaman",
+        "id": "CID_376_Athena_Commando_M_DarkShaman"
+    },
+    {
+        "name": "Marino",
+        "id": "CID_366_Athena_Commando_M_Tropical"
+    },
+    {
+        "name": "Laguna",
+        "id": "CID_367_Athena_Commando_F_Tropical"
+    },
+    {
+        "name": "Inferno",
+        "id": "CID_370_Athena_Commando_M_EvilSuit"
+    },
+    {
+        "name": "Psion",
+        "id": "CID_364_Athena_Commando_F_SciOps"
+    },
+    {
+        "name": "Axiom",
+        "id": "CID_363_Athena_Commando_M_SciOps"
+    },
+    {
+        "name": "Dark Vertex",
+        "id": "CID_371_Athena_Commando_M_SpeedyMidnight"
+    },
+    {
+        "name": "Kenji",
+        "id": "CID_361_Athena_Commando_M_BandageNinja"
+    },
+    {
+        "name": "Kuno",
+        "id": "CID_362_Athena_Commando_F_BandageNinja"
+    },
+    {
+        "name": "Carbon Commando",
+        "id": "CID_360_Athena_Commando_M_TechOpsBlue"
+    },
+    {
+        "name": "Mezmer",
+        "id": "CID_358_Athena_Commando_M_Aztec"
+    },
+    {
+        "name": "Sunbird",
+        "id": "CID_359_Athena_Commando_F_Aztec"
+    },
+    {
+        "name": "Hypernova",
+        "id": "CID_357_Athena_Commando_M_OrangeCamo"
+    },
+    {
+        "name": "Sunflower",
+        "id": "CID_356_Athena_Commando_F_Farmer"
+    },
+    {
+        "name": "Munitions Major",
+        "id": "CID_354_Athena_Commando_M_MunitionsExpert"
+    },
+    {
+        "name": "Lucky Rider",
+        "id": "CID_365_Athena_Commando_M_LuckyRider"
+    },
+    {
+        "name": "Hayseed",
+        "id": "CID_355_Athena_Commando_M_Farmer"
+    },
+    {
+        "name": "Ember",
+        "id": "CID_351_Athena_Commando_F_FireElf"
+    },
+    {
+        "name": "Luxe",
+        "id": "CID_352_Athena_Commando_F_Shiny"
+    },
+    {
+        "name": "Bandolette",
+        "id": "CID_353_Athena_Commando_F_Bandolier"
+    },
+    {
+        "name": "Sidewinder",
+        "id": "CID_348_Athena_Commando_F_Medusa"
+    },
+    {
+        "name": "Peely",
+        "id": "CID_349_Athena_Commando_M_Banana"
+    },
+    {
+        "name": "Master Key",
+        "id": "CID_350_Athena_Commando_M_MasterKey"
+    },
+    {
+        "name": "Blackheart",
+        "id": "CID_347_Athena_Commando_M_PirateProgressive"
+    },
+    {
+        "name": "Heartbreaker",
+        "id": "CID_345_Athena_Commando_M_LoveLlama"
+    },
+    {
+        "name": "Lil Whip",
+        "id": "CID_344_Athena_Commando_M_IceCream"
+    },
+    {
+        "name": "Hybrid",
+        "id": "CID_346_Athena_Commando_M_DragonNinja"
+    },
+    {
+        "name": "Skully",
+        "id": "CID_341_Athena_Commando_F_SkullBrite"
+    },
+    {
+        "name": "Honor Guard",
+        "id": "CID_342_Athena_Commando_M_StreetRacerMetallic"
+    },
+    {
+        "name": "Fallen Love Ranger",
+        "id": "CID_343_Athena_Commando_M_CupidDark"
+    },
+    {
+        "name": "Rebel",
+        "id": "CID_340_Athena_Commando_F_RobotTrouble"
+    },
+    {
+        "name": "Bao Bros",
+        "id": "CID_338_Athena_Commando_M_DumplingMan"
+    },
+    {
+        "name": "Firewalker",
+        "id": "CID_336_Athena_Commando_M_DragonMask"
+    },
+    {
+        "name": "Galaxy Scout",
+        "id": "CID_337_Athena_Commando_F_Celestial"
+    },
+    {
+        "name": "Sparkplug",
+        "id": "CID_335_Athena_Commando_F_Scrapyard"
+    },
+    {
+        "name": "Kitbash",
+        "id": "CID_334_Athena_Commando_M_Scrapyard"
+    },
+    {
+        "name": "Marshmello",
+        "id": "CID_333_Athena_Commando_M_Squishy"
+    },
+    {
+        "name": "Revolt",
+        "id": "CID_339_Athena_Commando_M_RobotTrouble"
+    },
+    {
+        "name": "The Prisoner",
+        "id": "CID_332_Athena_Commando_M_Prisoner"
+    },
+    {
+        "name": "Cabbie",
+        "id": "CID_331_Athena_Commando_M_Taxi"
+    },
+    {
+        "name": "The Ice Queen",
+        "id": "CID_330_Athena_Commando_F_IceQueen"
+    },
+    {
+        "name": "Twistie",
+        "id": "CID_326_Athena_Commando_F_WavyMan"
+    },
+    {
+        "name": "Cobalt",
+        "id": "CID_327_Athena_Commando_M_BlueMystery"
+    },
+    {
+        "name": "Volley Girl",
+        "id": "CID_328_Athena_Commando_F_Tennis"
+    },
+    {
+        "name": "Snowstrike",
+        "id": "CID_329_Athena_Commando_F_SnowNinja"
+    },
+    {
+        "name": "Jaeger",
+        "id": "CID_323_Athena_Commando_M_Barbarian"
+    },
+    {
+        "name": "Fyra",
+        "id": "CID_324_Athena_Commando_F_Barbarian"
+    },
+    {
+        "name": "Bendie",
+        "id": "CID_325_Athena_Commando_M_WavyMan"
+    },
+    {
+        "name": "Deep Sea Destroyer",
+        "id": "CID_320_Athena_Commando_M_Nautilus"
+    },
+    {
+        "name": "Tech Ops",
+        "id": "CID_322_Athena_Commando_M_TechOps"
+    },
+    {
+        "name": "Verge",
+        "id": "CID_321_Athena_Commando_M_MilitaryFashion1"
+    },
+    {
+        "name": "Cloaked Shadow",
+        "id": "CID_317_Athena_Commando_M_WinterGhoul"
+    },
+    {
+        "name": "Tinseltoes",
+        "id": "CID_316_Athena_Commando_F_WinterHoliday"
+    },
+    {
+        "name": "Deep Sea Dominator",
+        "id": "CID_319_Athena_Commando_F_Nautilus"
+    },
+    {
+        "name": "Krampus",
+        "id": "CID_314_Athena_Commando_M_Krampus"
+    },
+    {
+        "name": "Malcore",
+        "id": "CID_318_Athena_Commando_M_Demon"
+    },
+    {
+        "name": "Fishstick",
+        "id": "CID_315_Athena_Commando_M_TeriyakiFish"
+    },
+    {
+        "name": "Disco Diva",
+        "id": "CID_312_Athena_Commando_F_FunkOps"
+    },
+    {
+        "name": "Red-nosed Ranger",
+        "id": "CID_311_Athena_Commando_M_Reindeer"
+    },
+    {
+        "name": "Lace",
+        "id": "CID_310_Athena_Commando_F_StreetGoth"
+    },
+    {
+        "name": "IKONIK",
+        "id": "CID_313_Athena_Commando_M_KpopFashion"
+    },
+    {
+        "name": "Grimbles",
+        "id": "CID_304_Athena_Commando_M_Gnome"
+    },
+    {
+        "name": "Paradox",
+        "id": "CID_309_Athena_Commando_M_StreetGoth"
+    },
+    {
+        "name": "DJ Bop",
+        "id": "CID_308_Athena_Commando_F_FortniteDJ"
+    },
+    {
+        "name": "Ark",
+        "id": "CID_300_Athena_Commando_F_Angel"
+    },
+    {
+        "name": "Crackabella",
+        "id": "CID_302_Athena_Commando_F_Nutcracker"
+    },
+    {
+        "name": "Beastmode",
+        "id": "CID_301_Athena_Commando_M_Rhino"
+    },
+    {
+        "name": "Maven",
+        "id": "CID_297_Athena_Commando_F_Math"
+    },
+    {
+        "name": "Snowfoot",
+        "id": "CID_299_Athena_Commando_M_SnowNinja"
+    },
+    {
+        "name": "Prodigy",
+        "id": "CID_296_Athena_Commando_M_Math"
+    },
+    {
+        "name": "Sugarplum",
+        "id": "CID_303_Athena_Commando_F_SnowFairy"
+    },
+    {
+        "name": "Frozen Raven",
+        "id": "CID_293_Athena_Commando_M_RavenWinter"
+    },
+    {
+        "name": "Frozen Love Ranger",
+        "id": "CID_295_Athena_Commando_M_CupidWinter"
+    },
+    {
+        "name": "Frozen Red Knight",
+        "id": "CID_294_Athena_Commando_F_RedKnightWinter"
+    },
+    {
+        "name": "The Ice King",
+        "id": "CID_288_Athena_Commando_M_IceKing"
+    },
+    {
+        "name": "Waypoint",
+        "id": "CID_290_Athena_Commando_F_BlueBadass"
+    },
+    {
+        "name": "Cloudbreaker",
+        "id": "CID_291_Athena_Commando_M_Dieselpunk02"
+    },
+    {
+        "name": "Wingtip",
+        "id": "CID_292_Athena_Commando_F_Dieselpunk02"
+    },
+    {
+        "name": "Lynx",
+        "id": "CID_286_Athena_Commando_F_NeonCat"
+    },
+    {
+        "name": "Zenith",
+        "id": "CID_287_Athena_Commando_M_ArcticSniper"
+    },
+    {
+        "name": "Powder",
+        "id": "CID_281_Athena_Commando_F_SnowBoard"
+    },
+    {
+        "name": "Mothmando",
+        "id": "CID_277_Athena_Commando_M_Moth"
+    },
+    {
+        "name": "Trog",
+        "id": "CID_278_Athena_Commando_M_Yeti"
+    },
+    {
+        "name": "Sgt. Winter",
+        "id": "CID_279_Athena_Commando_M_TacticalSanta"
+    },
+    {
+        "name": "Longshot",
+        "id": "CID_275_Athena_Commando_M_SniperHood"
+    },
+    {
+        "name": "Tender Defender",
+        "id": "CID_274_Athena_Commando_M_Feathers"
+    },
+    {
+        "name": "Slushy Soldier",
+        "id": "CID_280_Athena_Commando_M_Snowman"
+    },
+    {
+        "name": "Maki Master",
+        "id": "CID_271_Athena_Commando_F_SushiChef"
+    },
+    {
+        "name": "Taro",
+        "id": "CID_272_Athena_Commando_M_HornedMask"
+    },
+    {
+        "name": "Insight",
+        "id": "CID_276_Athena_Commando_F_SniperHood"
+    },
+    {
+        "name": "Nara",
+        "id": "CID_273_Athena_Commando_F_HornedMask"
+    },
+    {
+        "name": "Yee-Haw!",
+        "id": "CID_266_Athena_Commando_F_LlamaRider"
+    },
+    {
+        "name": "Elmira",
+        "id": "CID_270_Athena_Commando_F_Witch"
+    },
+    {
+        "name": "Castor",
+        "id": "CID_269_Athena_Commando_M_Wizard"
+    },
+    {
+        "name": "Ruckus",
+        "id": "CID_262_Athena_Commando_M_MadCommander"
+    },
+    {
+        "name": "Mayhem",
+        "id": "CID_263_Athena_Commando_F_MadCommander"
+    },
+    {
+        "name": "Growler",
+        "id": "CID_264_Athena_Commando_M_AnimalJackets"
+    },
+    {
+        "name": "Reflex",
+        "id": "CID_259_Athena_Commando_M_StreetOps"
+    },
+    {
+        "name": "Instinct",
+        "id": "CID_260_Athena_Commando_F_StreetOps"
+    },
+    {
+        "name": "Frostbite",
+        "id": "CID_261_Athena_Commando_M_RaptorArcticCamo"
+    },
+    {
+        "name": "Flapjackie",
+        "id": "CID_265_Athena_Commando_F_AnimalJackets"
+    },
+    {
+        "name": "Shogun",
+        "id": "CID_257_Athena_Commando_M_SamuraiUltra"
+    },
+    {
+        "name": "Spooky Team Leader",
+        "id": "CID_258_Athena_Commando_F_FuzzyBearHalloween"
+    },
+    {
+        "name": "Patch Patroller",
+        "id": "CID_256_Athena_Commando_M_Pumpkin"
+    },
+    {
+        "name": "Brainiac",
+        "id": "CID_254_Athena_Commando_M_Zombie"
+    },
+    {
+        "name": "Bunnymoon",
+        "id": "CID_255_Athena_Commando_F_HalloweenBunny"
+    },
+    {
+        "name": "Summit Striker",
+        "id": "CID_253_Athena_Commando_M_MilitaryFashion2"
+    },
+    {
+        "name": "Dante",
+        "id": "CID_252_Athena_Commando_M_Muertos"
+    },
+    {
+        "name": "Deadfire",
+        "id": "CID_250_Athena_Commando_M_EvilCowboy"
+    },
+    {
+        "name": "Rosa",
+        "id": "CID_251_Athena_Commando_F_Muertos"
+    },
+    {
+        "name": "Guan Yu",
+        "id": "CID_247_Athena_Commando_M_GuanYu"
+    },
+    {
+        "name": "Spider Knight",
+        "id": "CID_248_Athena_Commando_M_BlackWidow"
+    },
+    {
+        "name": "Skull Ranger",
+        "id": "CID_246_Athena_Commando_F_Grave"
+    },
+    {
+        "name": "Hollowhead",
+        "id": "CID_243_Athena_Commando_M_PumpkinSlice"
+    },
+    {
+        "name": "Onesie",
+        "id": "CID_245_Athena_Commando_F_DurrburgerPjs"
+    },
+    {
+        "name": "Arachne",
+        "id": "CID_249_Athena_Commando_F_BlackWidow"
+    },
+    {
+        "name": "Scourge",
+        "id": "CID_240_Athena_Commando_F_Plague"
+    },
+    {
+        "name": "Plague",
+        "id": "CID_241_Athena_Commando_M_Plague"
+    },
+    {
+        "name": "Bullseye",
+        "id": "CID_242_Athena_Commando_F_Bullseye"
+    },
+    {
+        "name": "Jack Gourdon",
+        "id": "CID_244_Athena_Commando_M_PumpkinSuit"
+    },
+    {
+        "name": "Strong Guard",
+        "id": "CID_239_Athena_Commando_M_FootballDudeD"
+    },
+    {
+        "name": "Juke",
+        "id": "CID_238_Athena_Commando_F_FootballGirlD"
+    },
+    {
+        "name": "Calamity",
+        "id": "CID_237_Athena_Commando_F_Cowgirl"
+    },
+    {
+        "name": "DJ Yonder",
+        "id": "CID_233_Athena_Commando_M_FortniteDJ"
+    },
+    {
+        "name": "Giddy-up",
+        "id": "CID_234_Athena_Commando_M_LlamaRider"
+    },
+    {
+        "name": "Hay Man",
+        "id": "CID_235_Athena_Commando_M_Scarecrow"
+    },
+    {
+        "name": "Dire",
+        "id": "CID_230_Athena_Commando_M_Werewolf"
+    },
+    {
+        "name": "Fable",
+        "id": "CID_231_Athena_Commando_F_RedRiding"
+    },
+    {
+        "name": "Straw Ops",
+        "id": "CID_236_Athena_Commando_F_Scarecrow"
+    },
+    {
+        "name": "Dusk",
+        "id": "CID_227_Athena_Commando_F_Vampire"
+    },
+    {
+        "name": "Sanctum",
+        "id": "CID_228_Athena_Commando_M_Vampire"
+    },
+    {
+        "name": "Nightshade",
+        "id": "CID_232_Athena_Commando_F_HalloweenTomato"
+    },
+    {
+        "name": "Ludwig",
+        "id": "CID_225_Athena_Commando_M_Octoberfest"
+    },
+    {
+        "name": "Dark Bomber",
+        "id": "CID_229_Athena_Commando_F_DarkBomber"
+    },
+    {
+        "name": "Heidi",
+        "id": "CID_226_Athena_Commando_F_Octoberfest"
+    },
+    {
+        "name": "Valkyrie",
+        "id": "CID_222_Athena_Commando_F_DarkViking"
+    },
+    {
+        "name": "Maximilian",
+        "id": "CID_223_Athena_Commando_M_Dieselpunk"
+    },
+    {
+        "name": "Nite Nite",
+        "id": "CID_221_Athena_Commando_M_Clown"
+    },
+    {
+        "name": "Airheart",
+        "id": "CID_224_Athena_Commando_F_Dieselpunk"
+    },
+    {
+        "name": "Hacivat",
+        "id": "CID_219_Athena_Commando_M_Hacivat"
+    },
+    {
+        "name": "Garrison",
+        "id": "CID_218_Athena_Commando_M_GreenBeret"
+    },
+    {
+        "name": "Peekaboo",
+        "id": "CID_220_Athena_Commando_F_Clown"
+    },
+    {
+        "name": "Whistle Warrior",
+        "id": "CID_214_Athena_Commando_F_FootballReferee"
+    },
+    {
+        "name": "Field Surgeon",
+        "id": "CID_216_Athena_Commando_F_Medic"
+    },
+    {
+        "name": "Striped Soldier",
+        "id": "CID_215_Athena_Commando_M_FootballReferee"
+    },
+    {
+        "name": "Interceptor",
+        "id": "CID_212_Athena_Commando_F_FootballGirlC"
+    },
+    {
+        "name": "Blitz",
+        "id": "CID_210_Athena_Commando_F_FootballGirlA"
+    },
+    {
+        "name": "Triage Trooper",
+        "id": "CID_217_Athena_Commando_M_Medic"
+    },
+    {
+        "name": "Gridiron",
+        "id": "CID_208_Athena_Commando_M_FootballDudeB"
+    },
+    {
+        "name": "End Zone",
+        "id": "CID_207_Athena_Commando_M_FootballDudeA"
+    },
+    {
+        "name": "Rush",
+        "id": "CID_211_Athena_Commando_F_FootballGirlB"
+    },
+    {
+        "name": "Spike",
+        "id": "CID_209_Athena_Commando_M_FootballDudeC"
+    },
+    {
+        "name": "Synth Star",
+        "id": "CID_205_Athena_Commando_F_GarageBand"
+    },
+    {
+        "name": "Stage Slayer",
+        "id": "CID_204_Athena_Commando_M_GarageBand"
+    },
+    {
+        "name": "Wild Card",
+        "id": "CID_206_Athena_Commando_M_Bling"
+    },
+    {
+        "name": "Armadillo",
+        "id": "CID_201_Athena_Commando_M_DesertOps"
+    },
+    {
+        "name": "Enforcer",
+        "id": "CID_200_Athena_Commando_M_DarkPaintballer"
+    },
+    {
+        "name": "Scorpion",
+        "id": "CID_202_Athena_Commando_F_DesertOps"
+    },
+    {
+        "name": "Cloaked Star",
+        "id": "CID_203_Athena_Commando_M_CloakedStar"
+    },
+    {
+        "name": "Musha",
+        "id": "CID_198_Athena_Commando_M_BlueSamurai"
+    },
+    {
+        "name": "Hime",
+        "id": "CID_199_Athena_Commando_F_BlueSamurai"
+    },
+    {
+        "name": "Backbone",
+        "id": "CID_196_Athena_Commando_M_Biker"
+    },
+    {
+        "name": "The Ace",
+        "id": "CID_195_Athena_Commando_F_Bling"
+    },
+    {
+        "name": "Ravage",
+        "id": "CID_194_Athena_Commando_F_RavenQuill"
+    },
+    {
+        "name": "Dreamflower",
+        "id": "CID_193_Athena_Commando_F_Hippie"
+    },
+    {
+        "name": "Chopper",
+        "id": "CID_197_Athena_Commando_F_Biker"
+    },
+    {
+        "name": "Aerobic Assassin",
+        "id": "CID_189_Athena_Commando_F_Exercise"
+    },
+    {
+        "name": "Sushi Master",
+        "id": "CID_191_Athena_Commando_M_SushiChef"
+    },
+    {
+        "name": "Far Out Man",
+        "id": "CID_192_Athena_Commando_M_Hippie"
+    },
+    {
+        "name": "Whiteout",
+        "id": "CID_188_Athena_Commando_F_StreetRacerWhite"
+    },
+    {
+        "name": "Mullet Marauder",
+        "id": "CID_186_Athena_Commando_M_Exercise"
+    },
+    {
+        "name": "Overtaker",
+        "id": "CID_190_Athena_Commando_M_StreetRacerWhite"
+    },
+    {
+        "name": "P.A.N.D.A Team Leader",
+        "id": "CID_187_Athena_Commando_F_FuzzyBearPanda"
+    },
+    {
+        "name": "Double Helix",
+        "id": "CID_183_Athena_Commando_M_ModernMilitaryRed"
+    },
+    {
+        "name": "Grill Sergeant",
+        "id": "CID_184_Athena_Commando_M_DurrburgerWorker"
+    },
+    {
+        "name": "Beef Boss",
+        "id": "CID_185_Athena_Commando_M_DurrburgerHero"
+    },
+    {
+        "name": "Reef Ranger",
+        "id": "CID_179_Athena_Commando_F_Scuba"
+    },
+    {
+        "name": "Shade",
+        "id": "CID_178_Athena_Commando_F_StreetRacerCobra"
+    },
+    {
+        "name": "Wreck Raider",
+        "id": "CID_180_Athena_Commando_M_Scuba"
+    },
+    {
+        "name": "Archetype",
+        "id": "CID_182_Athena_Commando_M_ModernMilitary"
+    },
+    {
+        "name": "Sun Tan Specialist",
+        "id": "CID_176_Athena_Commando_M_Lifeguard"
+    },
+    {
+        "name": "Galaxy",
+        "id": "CID_175_Athena_Commando_M_Celestial"
+    },
+    {
+        "name": "Maverick",
+        "id": "CID_177_Athena_Commando_M_StreetRacerCobra"
+    },
+    {
+        "name": "Moniker",
+        "id": "CID_171_Athena_Commando_M_SharpDresser"
+    },
+    {
+        "name": "Fortune",
+        "id": "CID_172_Athena_Commando_F_SharpDresser"
+    },
+    {
+        "name": "Rook",
+        "id": "CID_173_Athena_Commando_F_StarfishUniform"
+    },
+    {
+        "name": "Masked Fury",
+        "id": "CID_169_Athena_Commando_M_Luchador"
+    },
+    {
+        "name": "Chomp Sr.",
+        "id": "CID_168_Athena_Commando_M_Shark"
+    },
+    {
+        "name": "Dynamo",
+        "id": "CID_170_Athena_Commando_F_Luchador"
+    },
+    {
+        "name": "Eon",
+        "id": "CID_174_Athena_Commando_F_CarbideWhite"
+    },
+    {
+        "name": "Sun Strider",
+        "id": "CID_166_Athena_Commando_F_Lifeguard"
+    },
+    {
+        "name": "Magnus",
+        "id": "CID_164_Athena_Commando_M_Viking"
+    },
+    {
+        "name": "Sledgehammer",
+        "id": "CID_167_Athena_Commando_M_TacticalBadass"
+    },
+    {
+        "name": "Redline",
+        "id": "CID_162_Athena_Commando_F_StreetRacer"
+    },
+    {
+        "name": "Drift",
+        "id": "CID_161_Athena_Commando_M_Drift"
+    },
+    {
+        "name": "Ragnarok",
+        "id": "CID_165_Athena_Commando_M_DarkViking"
+    },
+    {
+        "name": "Huntress",
+        "id": "CID_163_Athena_Commando_F_Viking"
+    },
+    {
+        "name": "Star-Spangled Ranger",
+        "id": "CID_158_Athena_Commando_F_StarsAndStripes"
+    },
+    {
+        "name": "Vertex",
+        "id": "CID_160_Athena_Commando_M_SpeedyRed"
+    },
+    {
+        "name": "Noir",
+        "id": "CID_159_Athena_Commando_M_GumshoeDark"
+    },
+    {
+        "name": "Star-Spangled Trooper",
+        "id": "CID_157_Athena_Commando_M_StarsAndStripes"
+    },
+    {
+        "name": "Sleuth",
+        "id": "CID_154_Athena_Commando_M_Gumshoe"
+    },
+    {
+        "name": "Gumshoe",
+        "id": "CID_155_Athena_Commando_F_Gumshoe"
+    },
+    {
+        "name": "Fireworks Team Leader",
+        "id": "CID_156_Athena_Commando_F_FuzzyBearInd"
+    },
+    {
+        "name": "Clinical Crosser",
+        "id": "CID_151_Athena_Commando_F_SoccerGirlD"
+    },
+    {
+        "name": "Finesse Finisher",
+        "id": "CID_150_Athena_Commando_F_SoccerGirlC"
+    },
+    {
+        "name": "Criterion",
+        "id": "CID_152_Athena_Commando_F_CarbideOrange"
+    },
+    {
+        "name": "Dynamic Dribbler",
+        "id": "CID_148_Athena_Commando_F_SoccerGirlA"
+    },
+    {
+        "name": "Stalwart Sweeper",
+        "id": "CID_147_Athena_Commando_M_SoccerDudeD"
+    },
+    {
+        "name": "Poised Playmaker",
+        "id": "CID_149_Athena_Commando_F_SoccerGirlB"
+    },
+    {
+        "name": "Super Striker",
+        "id": "CID_144_Athena_Commando_M_SoccerDudeA"
+    },
+    {
+        "name": "Midfield Maestro",
+        "id": "CID_145_Athena_Commando_M_SoccerDudeB"
+    },
+    {
+        "name": "Aerial Threat",
+        "id": "CID_146_Athena_Commando_M_SoccerDudeC"
+    },
+    {
+        "name": "Omen",
+        "id": "CID_141_Athena_Commando_M_DarkEagle"
+    },
+    {
+        "name": "Sky Stalker",
+        "id": "CID_142_Athena_Commando_M_WWIIPilot"
+    },
+    {
+        "name": "Oblivion",
+        "id": "CID_153_Athena_Commando_F_CarbideBlack"
+    },
+    {
+        "name": "Fate",
+        "id": "CID_143_Athena_Commando_F_DarkNinja"
+    },
+    {
+        "name": "Wingman",
+        "id": "CID_139_Athena_Commando_M_FighterPilot"
+    },
+    {
+        "name": "Blue Striker",
+        "id": "CID_138_Athena_Commando_M_PSBurnout"
+    },
+    {
+        "name": "The Visitor",
+        "id": "CID_140_Athena_Commando_M_Visitor"
+    },
+    {
+        "name": "Scoundrel",
+        "id": "CID_134_Athena_Commando_M_Jailbird"
+    },
+    {
+        "name": "Jumpshot",
+        "id": "CID_136_Athena_Commando_M_StreetBasketball"
+    },
+    {
+        "name": "Rapscallion",
+        "id": "CID_135_Athena_Commando_F_Jailbird"
+    },
+    {
+        "name": "Ventura",
+        "id": "CID_133_Athena_Commando_F_Deco"
+    },
+    {
+        "name": "Flytrap",
+        "id": "CID_132_Athena_Commando_M_Venus"
+    },
+    {
+        "name": "Triple Threat",
+        "id": "CID_137_Athena_Commando_F_StreetBasketball"
+    },
+    {
+        "name": "Bandolier",
+        "id": "CID_131_Athena_Commando_M_Warpaint"
+    },
+    {
+        "name": "Hazard Agent",
+        "id": "CID_128_Athena_Commando_F_Hazmat"
+    },
+    {
+        "name": "Moisty Merman",
+        "id": "CID_130_Athena_Commando_M_Merman"
+    },
+    {
+        "name": "Toxic Trooper",
+        "id": "CID_127_Athena_Commando_M_Hazmat"
+    },
+    {
+        "name": "Battlehawk",
+        "id": "CID_125_Athena_Commando_M_TacticalWoodland"
+    },
+    {
+        "name": "Venturion",
+        "id": "CID_129_Athena_Commando_M_Deco"
+    },
+    {
+        "name": "Liteshow",
+        "id": "CID_126_Athena_Commando_M_AuroraGlow"
+    },
+    {
+        "name": "Nitelite",
+        "id": "CID_124_Athena_Commando_F_AuroraGlow"
+    },
+    {
+        "name": "Abstrakt",
+        "id": "CID_121_Athena_Commando_M_Graffiti"
+    },
+    {
+        "name": "Diecast",
+        "id": "CID_122_Athena_Commando_M_Metal"
+    },
+    {
+        "name": "Chromium",
+        "id": "CID_123_Athena_Commando_F_Metal"
+    },
+    {
+        "name": "Zoey",
+        "id": "CID_119_Athena_Commando_F_Candy"
+    },
+    {
+        "name": "Squad Leader",
+        "id": "CID_117_Athena_Commando_M_TacticalJungle"
+    },
+    {
+        "name": "Valor",
+        "id": "CID_118_Athena_Commando_F_Valor"
+    },
+    {
+        "name": "Omega",
+        "id": "CID_116_Athena_Commando_M_CarbideBlack"
+    },
+    {
+        "name": "Carbide",
+        "id": "CID_115_Athena_Commando_M_CarbideBlue"
+    },
+    {
+        "name": "Trailblazer",
+        "id": "CID_114_Athena_Commando_F_TacticalWoodland"
+    },
+    {
+        "name": "Teknique",
+        "id": "CID_120_Athena_Commando_F_Graffiti"
+    },
+    {
+        "name": "Brite Gunner",
+        "id": "CID_112_Athena_Commando_M_Brite"
+    },
+    {
+        "name": "Royale Bomber",
+        "id": "CID_113_Athena_Commando_M_BlueAce"
+    },
+    {
+        "name": "Steelsight",
+        "id": "CID_111_Athena_Commando_F_Robo"
+    },
+    {
+        "name": "Tricera Ops",
+        "id": "CID_107_Athena_Commando_F_PajamaParty"
+    },
+    {
+        "name": "Leviathan",
+        "id": "CID_108_Athena_Commando_M_Fishhead"
+    },
+    {
+        "name": "Tomatohead",
+        "id": "CID_109_Athena_Commando_M_Pizza"
+    },
+    {
+        "name": "Whiplash",
+        "id": "CID_106_Athena_Commando_F_Taxi"
+    },
+    {
+        "name": "Bunny Brawler",
+        "id": "CID_104_Athena_Commando_F_Bunny"
+    },
+    {
+        "name": "Cipher",
+        "id": "CID_110_Athena_Commando_F_CircuitBreaker"
+    },
+    {
+        "name": "Dark Vanguard",
+        "id": "CID_105_Athena_Commando_F_SpaceBlack"
+    },
+    {
+        "name": "Midnight Ops",
+        "id": "CID_101_Athena_Commando_M_Stealth"
+    },
+    {
+        "name": "Battle Hound",
+        "id": "CID_100_Athena_Commando_M_CuChulainn"
+    },
+    {
+        "name": "Rabbit Raider",
+        "id": "CID_103_Athena_Commando_M_Bunny"
+    },
+    {
+        "name": "Rose Team Leader",
+        "id": "CID_096_Athena_Commando_F_Founder"
+    },
+    {
+        "name": "Power Chord",
+        "id": "CID_097_Athena_Commando_F_RockerPunk"
+    },
+    {
+        "name": "Sgt. Green Clover",
+        "id": "CID_098_Athena_Commando_F_StPatty"
+    },
+    {
+        "name": "Rex",
+        "id": "CID_093_Athena_Commando_M_Dinosaur"
+    },
+    {
+        "name": "Warpaint",
+        "id": "CID_095_Athena_Commando_M_Founder"
+    },
+    {
+        "name": "Highland Warrior",
+        "id": "CID_099_Athena_Commando_F_Scathach"
+    },
+    {
+        "name": "Burnout",
+        "id": "CID_094_Athena_Commando_M_Rider"
+    },
+    {
+        "name": "Radiant Striker",
+        "id": "CID_091_Athena_Commando_M_RedShirt"
+    },
+    {
+        "name": "Rogue Agent",
+        "id": "CID_090_Athena_Commando_M_Tactical"
+    },
+    {
+        "name": "Brilliant Striker",
+        "id": "CID_092_Athena_Commando_F_RedShirt"
+    },
+    {
+        "name": "Crimson Scout",
+        "id": "CID_086_Athena_Commando_M_RedSilk"
+    },
+    {
+        "name": "Scarlet Defender",
+        "id": "CID_087_Athena_Commando_F_RedSilk"
+    },
+    {
+        "name": "Dark Voyager",
+        "id": "CID_088_Athena_Commando_M_SpaceBlack"
+    },
+    {
+        "name": "Havoc",
+        "id": "CID_089_Athena_Commando_M_RetroGrey"
+    },
+    {
+        "name": "The Reaper",
+        "id": "CID_084_Athena_Commando_M_Assassin"
+    },
+    {
+        "name": "Elite Agent",
+        "id": "CID_083_Athena_Commando_F_Tactical"
+    },
+    {
+        "name": "Sub Commander",
+        "id": "CID_085_Athena_Commando_M_Twitch"
+    },
+    {
+        "name": "Mission Specialist",
+        "id": "CID_080_Athena_Commando_M_Space"
+    },
+    {
+        "name": "Tower Recon Specialist",
+        "id": "CID_079_Athena_Commando_F_Camo"
+    },
+    {
+        "name": "Rust Lord",
+        "id": "CID_082_Athena_Commando_M_Scavenger"
+    },
+    {
+        "name": "Moonwalker",
+        "id": "CID_081_Athena_Commando_F_Space"
+    },
+    {
+        "name": "Dazzle",
+        "id": "CID_076_Athena_Commando_F_Sup"
+    },
+    {
+        "name": "Hyperion",
+        "id": "CID_077_Athena_Commando_M_Sup"
+    },
+    {
+        "name": "Highrise Assault Trooper",
+        "id": "CID_078_Athena_Commando_M_Camo"
+    },
+    {
+        "name": "Sash Sergeant",
+        "id": "CID_072_Athena_Commando_M_Scout"
+    },
+    {
+        "name": "Snorkel Ops",
+        "id": "CID_073_Athena_Commando_F_Scuba"
+    },
+    {
+        "name": "Jungle Scout",
+        "id": "CID_074_Athena_Commando_F_Stripe"
+    },
+    {
+        "name": "Tactics Officer",
+        "id": "CID_075_Athena_Commando_F_Stripe"
+    },
+    {
+        "name": "Love Ranger",
+        "id": "CID_070_Athena_Commando_M_Cupid"
+    },
+    {
+        "name": "Mogul Master (KOR)",
+        "id": "CID_068_Athena_Commando_F_SkiGirl_KOR"
+    },
+    {
+        "name": "Wukong",
+        "id": "CID_071_Athena_Commando_M_Wukong"
+    },
+    {
+        "name": "Mogul Master (FRA)",
+        "id": "CID_065_Athena_Commando_F_SkiGirl_FRA"
+    },
+    {
+        "name": "Mogul Master (CHN)",
+        "id": "CID_067_Athena_Commando_F_SkiGirl_CHN"
+    },
+    {
+        "name": "Mogul Master (GBR)",
+        "id": "CID_064_Athena_Commando_F_SkiGirl_GBR"
+    },
+    {
+        "name": "Mogul Master (GER)",
+        "id": "CID_066_Athena_Commando_F_SkiGirl_GER"
+    },
+    {
+        "name": "Mogul Master (USA)",
+        "id": "CID_062_Athena_Commando_F_SkiGirl_USA"
+    },
+    {
+        "name": "Mogul Master (CAN)",
+        "id": "CID_063_Athena_Commando_F_SkiGirl_CAN"
+    },
+    {
+        "name": "Alpine Ace (KOR)",
+        "id": "CID_060_Athena_Commando_M_SkiDude_KOR"
+    },
+    {
+        "name": "Alpine Ace (GER)",
+        "id": "CID_058_Athena_Commando_M_SkiDude_GER"
+    },
+    {
+        "name": "Alpine Ace (CHN)",
+        "id": "CID_059_Athena_Commando_M_SkiDude_CHN"
+    },
+    {
+        "name": "Alpine Ace (FRA)",
+        "id": "CID_057_Athena_Commando_M_SkiDude_FRA"
+    },
+    {
+        "name": "Mogul Master",
+        "id": "CID_061_Athena_Commando_F_SkiGirl"
+    },
+    {
+        "name": "Alpine Ace",
+        "id": "CID_053_Athena_Commando_M_SkiDude"
+    },
+    {
+        "name": "Alpine Ace (USA)",
+        "id": "CID_054_Athena_Commando_M_SkiDude_USA"
+    },
+    {
+        "name": "Alpine Ace (GBR)",
+        "id": "CID_056_Athena_Commando_M_SkiDude_GBR"
+    },
+    {
+        "name": "Alpine Ace (CAN)",
+        "id": "CID_055_Athena_Commando_M_SkiDude_CAN"
+    },
+    {
+        "name": "Crackshot",
+        "id": "CID_050_Athena_Commando_M_HolidayNutcracker"
+    },
+    {
+        "name": "Blue Team Leader",
+        "id": "CID_052_Athena_Commando_F_PSBlue"
+    },
+    {
+        "name": "Codename E.L.F.",
+        "id": "CID_051_Athena_Commando_M_HolidayElf"
+    },
+    {
+        "name": "Ginger Gunner",
+        "id": "CID_048_Athena_Commando_F_HolidayGingerbread"
+    },
+    {
+        "name": "Merry Marauder",
+        "id": "CID_049_Athena_Commando_M_HolidayGingerbread"
+    },
+    {
+        "name": "Nog Ops",
+        "id": "CID_046_Athena_Commando_F_HolidaySweater"
+    },
+    {
+        "name": "Brite Bomber",
+        "id": "CID_044_Athena_Commando_F_SciPop"
+    },
+    {
+        "name": "Yuletide Ranger",
+        "id": "CID_045_Athena_Commando_M_HolidaySweater"
+    },
+    {
+        "name": "Red-Nosed Raider",
+        "id": "CID_047_Athena_Commando_F_HolidayReindeer"
+    },
+    {
+        "name": "Shadow Ops",
+        "id": "CID_043_Athena_Commando_F_Stealth"
+    },
+    {
+        "name": "Devastator",
+        "id": "CID_040_Athena_Commando_M_District"
+    },
+    {
+        "name": "Dominator",
+        "id": "CID_041_Athena_Commando_F_District"
+    },
+    {
+        "name": "Circuit Breaker",
+        "id": "CID_042_Athena_Commando_M_Cyberpunk"
+    },
+    {
+        "name": "Arctic Assassin",
+        "id": "CID_037_Athena_Commando_F_WinterCamo"
+    },
+    {
+        "name": "Sparkle Specialist",
+        "id": "CID_039_Athena_Commando_F_Disco"
+    },
+    {
+        "name": "Absolute Zero",
+        "id": "CID_036_Athena_Commando_M_WinterCamo"
+    },
+    {
+        "name": "Funk Ops",
+        "id": "CID_038_Athena_Commando_M_Disco"
+    },
+    {
+        "name": "Blue Squire",
+        "id": "CID_032_Athena_Commando_M_Medieval"
+    },
+    {
+        "name": "Red Knight",
+        "id": "CID_034_Athena_Commando_F_Medieval"
+    },
+    {
+        "name": "Black Knight",
+        "id": "CID_035_Athena_Commando_M_Medieval"
+    },
+    {
+        "name": "Skull Trooper",
+        "id": "CID_030_Athena_Commando_M_Halloween"
+    },
+    {
+        "name": "Ghoul Trooper",
+        "id": "CID_029_Athena_Commando_F_Halloween"
+    },
+    {
+        "name": "Royale Knight",
+        "id": "CID_033_Athena_Commando_F_Medieval"
+    },
+    {
+        "name": "Raptor",
+        "id": "CID_031_Athena_Commando_M_Retro"
+    },
+    {
+        "name": "Renegade Raider",
+        "id": "CID_028_Athena_Commando_F"
+    },
+    {
+        "name": "Survival Specialist",
+        "id": "CID_027_Athena_Commando_F"
+    },
+    {
+        "name": "Desperado",
+        "id": "CID_026_Athena_Commando_M"
+    },
+    {
+        "name": "Munitions Expert",
+        "id": "CID_023_Athena_Commando_F"
+    },
+    {
+        "name": "Recon Specialist",
+        "id": "CID_024_Athena_Commando_F"
+    },
+    {
+        "name": "Recon Expert",
+        "id": "CID_022_Athena_Commando_F"
+    },
+    {
+        "name": "First strike Specialist",
+        "id": "CID_025_Athena_Commando_M"
+    },
+    {
+        "name": "Infiltrator",
+        "id": "CID_019_Athena_Commando_M"
+    },
+    {
+        "name": "Special Forces",
+        "id": "CID_020_Athena_Commando_M"
+    },
+    {
+        "name": "Brawler",
+        "id": "CID_021_Athena_Commando_F"
+    },
+    {
+        "name": "Assault Trooper",
+        "id": "CID_015_Athena_Commando_F"
+    },
+    {
+        "name": "Commando",
+        "id": "CID_016_Athena_Commando_F"
+    },
+    {
+        "name": "Aerial Assault Trooper",
+        "id": "CID_017_Athena_Commando_M"
+    },
+    {
+        "name": "Pathfinder",
+        "id": "CID_014_Athena_Commando_F"
+    },
+    {
+        "name": "Renegade",
+        "id": "CID_013_Athena_Commando_F"
+    },
+    {
+        "name": "Recon Scout",
+        "id": "CID_018_Athena_Commando_M"
+    },
+    {
+        "name": "Trooper",
+        "id": "CID_012_Athena_Commando_M"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_008_Athena_Commando_M_Default"
+    },
+    {
+        "name": "Ranger",
+        "id": "CID_010_Athena_Commando_M"
+    },
+    {
+        "name": "Scout",
+        "id": "CID_011_Athena_Commando_M"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_007_Athena_Commando_M_Default"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_003_Athena_Commando_F_Default"
+    },
+    {
+        "name": "Tracker",
+        "id": "CID_009_Athena_Commando_M"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_004_Athena_Commando_F_Default"
+    },
+    {
+        "name": "Recruit",
+        "id": "CID_002_Athena_Commando_F_Default"
+    },
+    {
+        "name": "Raven",
+        "id": "CID_102_Athena_Commando_M_Raven"
+    },
+    {
+        "name": "Pathfinder Jess",
+        "id": "CID_Outlander_ZoneHarvest"
+    },
+    {
+        "name": "Bloodfinder A.C.",
+        "id": "CID_Outlander_ZoneHarvestHW"
+    },
+    {
+        "name": "Phase Scout Jess",
+        "id": "CID_Outlander_ZoneFragment"
+    },
+    {
+        "name": "Trailblazer A.C.",
+        "id": "CID_Outlander_Sony"
+    },
+    {
+        "name": "Shock Specialist A.C.",
+        "id": "CID_Outlander_PunchPhase"
+    },
+    {
+        "name": "Striker A.C.",
+        "id": "CID_Outlander_PunchDamage"
+    },
+    {
+        "name": "Main Stage Quinn",
+        "id": "CID_Outlander_030_RadOutlander"
+    },
+    {
+        "name": "Cyberclops",
+        "id": "CID_Outlander_029_RetroSciFiOutlander"
+    },
+    {
+        "name": "Azalea Clark",
+        "id": "CID_Outlander_028_RetroSciFiStoryOutlander"
+    },
+    {
+        "name": "Fragment Flurry Jess",
+        "id": "CID_Outlander_013"
+    },
+    {
+        "name": "Gunblazer Southie",
+        "id": "CID_Outlander_011"
+    },
+    {
+        "name": "Recon Scout Jess",
+        "id": "CID_Outlander_008_FoundersF"
+    },
+    {
+        "name": "Swift Shuriken Llamurai",
+        "id": "CID_Ninja_StarsRainHW"
+    },
+    {
+        "name": "Lotus Assassin Sarah",
+        "id": "CID_Ninja_StarsAssassin_FoundersF"
+    },
+    {
+        "name": "Bluestreak Ken",
+        "id": "CID_Ninja_Sony"
+    },
+    {
+        "name": "Dim Mak Mari",
+        "id": "CID_Ninja_SmokeDimMak"
+    },
+    {
+        "name": "Dragon Scorch",
+        "id": "CID_Ninja_SlashBreath"
+    },
+    {
+        "name": "Samurai Scrapper",
+        "id": "CID_Ninja_037_Junk_Samurai"
+    },
+    {
+        "name": "Varsity Hiro",
+        "id": "CID_Ninja_031_RadNinja"
+    },
+    {
+        "name": "Intergalactic Ken",
+        "id": "CID_Ninja_030_RetroSciFiNinja"
+    },
+    {
+        "name": "Razor",
+        "id": "CID_Ninja_028_Razor"
+    },
+    {
+        "name": "Forged Fate",
+        "id": "CID_Ninja_021"
+    },
+    {
+        "name": "Harvester Sarah",
+        "id": "CID_Ninja_015_F_V1"
+    },
+    {
+        "name": "Energy Thief Mari",
+        "id": "CID_Ninja_011"
+    },
+    {
+        "name": "B.A.S.E. Kyle",
+        "id": "CID_Constructor_RushBASE"
+    },
+    {
+        "name": "Tank Penny",
+        "id": "CID_Constructor_HammerTank"
+    },
+    {
+        "name": "Hotfixer Hazard",
+        "id": "CID_Constructor_BaseHyper"
+    },
+    {
+        "name": "Catstructor Penny",
+        "id": "CID_Constructor_BaseHyperHW"
+    },
+    {
+        "name": "Birthday Brigade Penny",
+        "id": "CID_Constructor_035_Birthday_Constructor"
+    },
+    {
+        "name": "\"Arrlene\" Izza",
+        "id": "CID_Constructor_031_HalloweenConstructor"
+    },
+    {
+        "name": "Power Pop Penny",
+        "id": "CID_Constructor_030_RadConstructor"
+    },
+    {
+        "name": "Dennis Jr.",
+        "id": "CID_Constructor_029_RadStoryConstructor"
+    },
+    {
+        "name": "ED-EE",
+        "id": "CID_Constructor_028_RetroSciFiConstructor"
+    },
+    {
+        "name": "Skull Trooper Jonesy",
+        "id": "CID_Commando_GunHeadshotHW"
+    },
+    {
+        "name": "MJ (No Way Home)",
+        "id": "CID_A_317_Athena_Commando_F_Lateral_HIKN9"
+    },
+    {
+        "name": "Nick Fury",
+        "id": "CID_A_267_Athena_Commando_M_Nucleus_XVIVU"
+    },
+    {
+        "name": "Dark Phoenix",
+        "id": "CID_A_231_Athena_Commando_F_Ashes_TKGK9"
+    },
+    {
+        "name": "Carnage",
+        "id": "CID_A_197_Athena_Commando_M_Clash"
+    },
+    {
+        "name": "Shang-Chi",
+        "id": "CID_A_193_Athena_Commando_M_Dragonfruit_7N3A3"
+    },
+    {
+        "name": "Gamora",
+        "id": "CID_A_157_Athena_Commando_F_Stereo_3A08Z"
+    },
+    {
+        "name": "Thanos",
+        "id": "CID_A_128_Athena_Commando_M_Menace"
+    },
+    {
+        "name": "Loki Laufeyson",
+        "id": "CID_A_126_Athena_Commando_M_Linguini_PX0QU"
+    },
+    {
+        "name": "Ant-Man",
+        "id": "CID_A_033_Athena_Commando_M_SmallFry_Z73EK"
+    },
+    {
+        "name": "Taskmaster",
+        "id": "CID_988_Athena_Commando_M_Tiramisu_5KHZP"
+    },
+    {
+        "name": "Black Panther",
+        "id": "CID_986_Athena_Commando_M_PlumRetro_4AJA2"
+    },
+    {
+        "name": "Captain Marvel",
+        "id": "CID_975_Athena_Commando_F_Cherry_B8XN5"
+    },
+    {
+        "name": "Black Widow (Snow Suit)",
+        "id": "CID_925_Athena_Commando_F_TapDance"
+    },
+    {
+        "name": "Ghost Rider",
+        "id": "CID_924_Athena_Commando_M_Embers"
+    },
+    {
+        "name": "Daredevil",
+        "id": "CID_895_Athena_Commando_M_DeliSandwich"
+    },
+    {
+        "name": "Blade",
+        "id": "CID_868_Athena_Commando_M_Backspin_3U6CA"
+    },
+    {
+        "name": "Silver Surfer",
+        "id": "CID_847_Athena_Commando_M_Soy_2AS3C"
+    },
+    {
+        "name": "Captain America",
+        "id": "CID_807_Athena_Commando_M_CandyApple_B1U7X"
+    },
+    {
+        "name": "Cuddlepool",
+        "id": "CID_746_Athena_Commando_F_FuzzyBear"
+    },
+    {
+        "name": "Ravenpool",
+        "id": "CID_745_Athena_Commando_M_RavenQuill"
+    },
+    {
+        "name": "Cable",
+        "id": "CID_738_Athena_Commando_M_DonutCup"
+    },
+    {
+        "name": "Psylocke",
+        "id": "CID_737_Athena_Commando_F_DonutPlate"
+    },
+    {
+        "name": "Domino",
+        "id": "CID_736_Athena_Commando_F_DonutDish"
+    },
+    {
+        "name": "Deadpool",
+        "id": "CID_705_Athena_Commando_M_Donut"
+    },
+    {
+        "name": "Star-Lord Outfit",
+        "id": "CID_400_Athena_Commando_M_AshtonSaltLake"
+    },
+    {
+        "name": "Black Widow Outfit",
+        "id": "CID_399_Athena_Commando_F_AshtonBoardwalk"
+    },
+    {
+        "name": "Jennifer Walters",
+        "id": "CID_842_Athena_Commando_F_HightowerHoneydew"
+    },
+    {
+        "name": "Blakebeard The Blackhearted",
+        "id": "CID_Constructor_025_ProgressivePirateConstructor"
+    },
+    {
+        "name": "Warden Kyle",
+        "id": "CID_Constructor_013"
+    },
+    {
+        "name": "Machinist Harper",
+        "id": "CID_Constructor_011"
+    },
+    {
+        "name": "Power B.A.S.E. Kyle",
+        "id": "CID_Constructor_008_FoundersM"
+    },
+    {
+        "name": "Power B.A.S.E. Penny",
+        "id": "CID_Constructor_008_FoundersF"
+    },
+    {
+        "name": "Survivalist Jonesy",
+        "id": "CID_Commando_GunTough"
+    },
+    {
+        "name": "Skull Ranger Ramirez",
+        "id": "CID_Commando_GunHeadshotHW_RS01"
+    },
+    {
+        "name": "Rescue Trooper Ramirez",
+        "id": "CID_Commando_GrenadeGun"
+    },
+    {
+        "name": "Demolisher Jonesy",
+        "id": "CID_Commando_013"
+    },
+    {
+        "name": "Shrapnel Headhunter",
+        "id": "CID_Commando_011"
+    },
+    {
+        "name": "Special Forces Jonesy",
+        "id": "CID_Commando_008_FoundersM"
+    },
+    {
+        "name": "Special Forces Ramirez",
+        "id": "CID_Commando_008_FoundersF"
+    },
+    {
+        "name": "Ghoul Trooper Ramirez",
+        "id": "CID_Commando_007HW"
+    },
+    {
+        "name": "Spider-Man (No Way Home)",
+        "id": "CID_A_316_Athena_Commando_M_Lateral_K8XD9"
+    },
+    {
+        "name": "Eddie Brock",
+        "id": "CID_A_204_Athena_Commando_M_ClashV_SQNVJ"
+    },
+    {
+        "name": "Venom",
+        "id": "CID_934_Athena_Commando_M_Vertigo"
+    },
+    {
+        "name": "Doctor Doom",
+        "id": "CID_846_Athena_Commando_M_HightowerDate"
+    },
+    {
+        "name": "Thor",
+        "id": "CID_845_Athena_Commando_M_HightowerTapas"
+    },
+    {
+        "name": "Mystique",
+        "id": "CID_844_Athena_Commando_F_HightowerMango"
+    },
+    {
+        "name": "Tony Stark",
+        "id": "CID_843_Athena_Commando_M_HightowerTomato_Casual"
+    },
+    {
+        "name": "Spider-Man",
+        "id": "CID_A_293_Athena_Commando_M_ParallelComic"
+    },
+    {
+        "name": "Storm",
+        "id": "CID_839_Athena_Commando_F_HightowerSquash"
+    },
+    {
+        "name": "Wolverine",
+        "id": "CID_841_Athena_Commando_M_HightowerWasabi"
+    },
+    {
+        "name": "Groot",
+        "id": "CID_840_Athena_Commando_M_HightowerGrape"
+    },
+    {
+        "name": "TBD",
+        "id": "CID_A_210_Athena_Commando_F_RenegadeSkull"
+    },
+    {
+        "name": "Aura",
+        "id": "CID_397_Athena_Commando_F_TreasureHunterFashion"
+    },
+    {
+        "name": "Special Forces Banshee",
+        "id": "CID_Commando_008"
+    },
+    {
+        "name": "Support Specialist Hawk",
+        "id": "CID_Commando_007"
+    },
+    {
+        "name": "Brainiac Jonesy",
+        "id": "CID_Commando_007HW_RS01"
+    },
+    {
+        "name": "Thunder Thora",
+        "id": "CID_Constructor_011_F_V1_RoadTrip"
+    },
+    {
+        "name": "Guardian Bull",
+        "id": "CID_Constructor_010"
+    },
+    {
+        "name": "Sentinel Hype",
+        "id": "CID_Constructor_009"
+    },
+    {
+        "name": "Demolitionist Penny",
+        "id": "CID_Constructor_016_F_V1"
+    },
+    {
+        "name": "Heavy B.A.S.E. Kyle",
+        "id": "CID_Constructor_015"
+    },
+    {
+        "name": "Riot Response Hazard",
+        "id": "CID_Constructor_014"
+    },
+    {
+        "name": "Riot Control Izza",
+        "id": "CID_Constructor_014_F"
+    },
+    {
+        "name": "Sentry Gunner Krampus",
+        "id": "CID_Constructor_020"
+    },
+    {
+        "name": "Sentry Gunner Airheart",
+        "id": "CID_Constructor_019"
+    },
+    {
+        "name": "Black Knight Garridan",
+        "id": "CID_Constructor_018"
+    },
+    {
+        "name": "Vintage-Tech Penny",
+        "id": "CID_Constructor_017_F_V1"
+    },
+    {
+        "name": "Saboteur Bull",
+        "id": "CID_Constructor_016_M_V1"
+    },
+    {
+        "name": "8-Bit Demo",
+        "id": "CID_Constructor_016_M_V1_BlockBuster"
+    },
+    {
+        "name": "Sgt. Tank Gatling",
+        "id": "CID_Constructor_032_ToyConstructor"
+    },
+    {
+        "name": "Prehistoric Izza",
+        "id": "CID_Constructor_027_DinoConstructor"
+    },
+    {
+        "name": "BombSquad Kyle",
+        "id": "CID_Constructor_026_BombSquadConstructor"
+    },
+    {
+        "name": "Privateer Hype",
+        "id": "CID_Constructor_024_PirateConstructor"
+    },
+    {
+        "name": "The Ice King",
+        "id": "CID_Constructor_023"
+    },
+    {
+        "name": "Conqueror Magnus",
+        "id": "CID_Constructor_022"
+    },
+    {
+        "name": "Dark Vanguard Airheart",
+        "id": "CID_Constructor_021"
+    },
+    {
+        "name": "MEGA B.A.S.E. Kyle",
+        "id": "CID_Constructor_BASEBig"
+    },
+    {
+        "name": "Lok-Bot",
+        "id": "CID_Constructor_039_Assemble_L"
+    },
+    {
+        "name": "Sleuth",
+        "id": "CID_Constructor_038_Gumshoe"
+    },
+    {
+        "name": "Director Riggs",
+        "id": "CID_Constructor_037_Director"
+    },
+    {
+        "name": "Ankylo Kyle",
+        "id": "CID_Constructor_036_DinoConstructor"
+    },
+    {
+        "name": "Machinist Mina",
+        "id": "CID_Constructor_034_Mechstructor"
+    },
+    {
+        "name": "Gold Knox",
+        "id": "CID_Constructor_033_Villain_Fleming"
+    },
+    {
+        "name": "Plasma Specialist Izza",
+        "id": "CID_Constructor_PlasmaDamage"
+    },
+    {
+        "name": "Miss Bunny Penny",
+        "id": "CID_Constructor_PlasmaDamage_Easter"
+    },
+    {
+        "name": "Steel Wool Syd",
+        "id": "CID_Constructor_Myth02"
+    },
+    {
+        "name": "Electro-pulse Penny",
+        "id": "CID_Constructor_HammerPlasma"
+    },
+    {
+        "name": "Patriot Penny",
+        "id": "CID_Constructor_HammerPlasma_4thJuly"
+    },
+    {
+        "name": "Brawler Luna",
+        "id": "CID_Ninja_007"
+    },
+    {
+        "name": "Guardian Knox",
+        "id": "CID_Constructor_XBOX"
+    },
+    {
+        "name": "Guardian Penny",
+        "id": "CID_Constructor_Sony"
+    },
+    {
+        "name": "Marathon Hype",
+        "id": "CID_Constructor_RushBASE_F"
+    },
+    {
+        "name": "Skirmisher Edge",
+        "id": "CID_Ninja_009"
+    },
+    {
+        "name": "Snuggle Specialist Sarah",
+        "id": "CID_Ninja_009_F_Valentine"
+    },
+    {
+        "name": "Stonefoot Crash",
+        "id": "CID_Ninja_008"
+    },
+    {
+        "name": "Alchemist Sarah",
+        "id": "CID_Ninja_013"
+    },
+    {
+        "name": "Deadly Star Scorpion",
+        "id": "CID_Ninja_010"
+    },
+    {
+        "name": "Deadly Blade Crash",
+        "id": "CID_Ninja_010_F"
+    },
+    {
+        "name": "Whiteout Fiona",
+        "id": "CID_Ninja_015_F_V1_RoadTrip"
+    },
+    {
+        "name": "Whirlwind Scorch",
+        "id": "CID_Ninja_014"
+    },
+    {
+        "name": "Thunderstrike Mari",
+        "id": "CID_Ninja_014_F"
+    },
+    {
+        "name": "Cloaked Shadow",
+        "id": "CID_Ninja_020"
+    },
+    {
+        "name": "Dire",
+        "id": "CID_Ninja_019"
+    },
+    {
+        "name": "Plague Doctor Igor",
+        "id": "CID_Ninja_018"
+    },
+    {
+        "name": "Infiltrator Ken",
+        "id": "CID_Ninja_017_M_V1"
+    },
+    {
+        "name": "Piercing Lotus Edge",
+        "id": "CID_Ninja_016_M_V1"
+    },
+    {
+        "name": "Deadly Lotus Luna",
+        "id": "CID_Ninja_016_F_V1"
+    },
+    {
+        "name": "Paleo Luna",
+        "id": "CID_Ninja_029_DinoNinja"
+    },
+    {
+        "name": "Dashing Hare Ken",
+        "id": "CID_Ninja_027_BunnyNinja"
+    },
+    {
+        "name": "Hybrid",
+        "id": "CID_Ninja_026_RedDragonNinja"
+    },
+    {
+        "name": "Swashbuckler Keelhaul",
+        "id": "CID_Ninja_025_PirateNinja"
+    },
+    {
+        "name": "Anti-Cuddle Sarah",
+        "id": "CID_Ninja_024"
+    },
+    {
+        "name": "Lynx Kassandra",
+        "id": "CID_Ninja_023"
+    },
+    {
+        "name": "Overtaker Hiro",
+        "id": "CID_Ninja_022"
+    },
+    {
+        "name": "Dennis",
+        "id": "CID_Ninja_040_Dennis"
+    },
+    {
+        "name": "Jurassic Ken",
+        "id": "CID_Ninja_039_Dino_Ninja"
+    },
+    {
+        "name": "Freebooter Ken",
+        "id": "CID_Ninja_038_Male_Ninja_Pirate"
+    },
+    {
+        "name": "Stoneheart Farrah",
+        "id": "CID_Ninja_035_F_Cupid"
+    },
+    {
+        "name": "Monks",
+        "id": "CID_Ninja_034_ToyMonkey"
+    },
+    {
+        "name": "Mermonster Ken",
+        "id": "CID_Ninja_033_HalloweenNinja"
+    },
+    {
+        "name": "Fleetfoot Ken",
+        "id": "CID_Ninja_SlashTail"
+    },
+    {
+        "name": "Sarah Hotep",
+        "id": "CID_Ninja_SlashBreathHW"
+    },
+    {
+        "name": "Bladestorm Enforcer",
+        "id": "CID_Ninja_Myth03"
+    },
+    {
+        "name": "The Cloaked Star",
+        "id": "CID_Ninja_Myth02"
+    },
+    {
+        "name": "Deimos",
+        "id": "CID_Ninja_043_Cranium"
+    },
+    {
+        "name": "Robo-Ray",
+        "id": "CID_Ninja_042_Assemble_R"
+    },
+    {
+        "name": "Venturion",
+        "id": "CID_Ninja_041_Deco"
+    },
+    {
+        "name": "Assassin Sarah",
+        "id": "CID_Ninja_StarsAssassin"
+    },
+    {
+        "name": "Lotus Assassin Ken",
+        "id": "CID_Ninja_StarsAssassin_FoundersM"
+    },
+    {
+        "name": "Enforcer Grizzly",
+        "id": "CID_Outlander_007"
+    },
+    {
+        "name": "Jingle Jess",
+        "id": "CID_Outlander_007_RS01"
+    },
+    {
+        "name": "Jade Assassin Sarah",
+        "id": "CID_Ninja_XBOX"
+    },
+    {
+        "name": "Swordmaster Ken",
+        "id": "CID_Ninja_Swordmaster"
+    },
+    {
+        "name": "Shuriken Master Sarah",
+        "id": "CID_Ninja_StarsRain"
+    },
+    {
+        "name": "Vanguard Southie",
+        "id": "CID_Outlander_009"
+    },
+    {
+        "name": "Recon Scout Eagle Eye",
+        "id": "CID_Outlander_008"
+    },
+    {
+        "name": "Recon Scout A.C.",
+        "id": "CID_Outlander_008_FoundersM"
+    },
+    {
+        "name": "Flash A.C.",
+        "id": "CID_Outlander_014_M"
+    },
+    {
+        "name": "Staredown Southie",
+        "id": "CID_Outlander_013_StPatricks"
+    },
+    {
+        "name": "Shockblaster Buzz",
+        "id": "CID_Outlander_010"
+    },
+    {
+        "name": "Trailblaster A.C.",
+        "id": "CID_Outlander_010_M"
+    },
+    {
+        "name": "Old Glory A.C.",
+        "id": "CID_Outlander_010_M_4thJuly"
+    },
+    {
+        "name": "Wild Fragment Deadeye",
+        "id": "CID_Outlander_017_M_V1"
+    },
+    {
+        "name": "Shockgunner Grizzly",
+        "id": "CID_Outlander_016_M_V1"
+    },
+    {
+        "name": "Ambush Buzz",
+        "id": "CID_Outlander_016_F_V1"
+    },
+    {
+        "name": "T.E.D.D. Shot Jess",
+        "id": "CID_Outlander_015_F_V1"
+    },
+    {
+        "name": "Fireflower Eagle Eye",
+        "id": "CID_Outlander_014"
+    },
+    {
+        "name": "Fossil Southie",
+        "id": "CID_Outlander_027_DinoOutlander"
+    },
+    {
+        "name": "Cottontail Eagle Eye",
+        "id": "CID_Outlander_026_BunnyOutlander"
+    },
+    {
+        "name": "Crossbones Barret",
+        "id": "CID_Outlander_025_PirateOutlander"
+    },
+    {
+        "name": "Steel Wool Anthony",
+        "id": "CID_Outlander_024"
+    },
+    {
+        "name": "The Ice Queen",
+        "id": "CID_Outlander_023"
+    },
+    {
+        "name": "Subzero Zenith",
+        "id": "CID_Outlander_022"
+    },
+    {
+        "name": "Ventura Ramirez",
+        "id": "CID_Outlander_021"
+    },
+    {
+        "name": "Valkyrie Rio",
+        "id": "CID_Outlander_020"
+    },
+    {
+        "name": "Sanguine Dusk",
+        "id": "CID_Outlander_018"
+    },
+    {
+        "name": "Cassie \"Clip\" Lipman",
+        "id": "CID_Outlander_038_Clip"
+    },
+    {
+        "name": "Metal Team Leader",
+        "id": "CID_Outlander_037_Fuzzy_Bear_Teddy"
+    },
+    {
+        "name": "Parasaur Jess",
+        "id": "CID_Outlander_036_Dino_Outlander"
+    },
+    {
+        "name": "Undercover Buzz",
+        "id": "CID_Outlander_034_Period_Fleming"
+    },
+    {
+        "name": "Kurohomura",
+        "id": "CID_Outlander_033_Kurohomura"
+    },
+    {
+        "name": "Jilly Teacup",
+        "id": "CID_Outlander_032_ToyOutlander"
+    },
+    {
+        "name": "Willow",
+        "id": "CID_Outlander_031_HalloweenOutlander"
+    },
+    {
+        "name": "Trailblazer Quinn",
+        "id": "CID_Outlander_SphereFragment"
+    },
+    {
+        "name": "Field Agent Rio",
+        "id": "CID_Outlander_Myth03"
+    },
+    {
+        "name": "Ragnarok",
+        "id": "CID_Outlander_Myth02"
+    },
+    {
+        "name": "Gumshoe",
+        "id": "CID_Outlander_039_Female_Gumshoe"
+    },
+    {
+        "name": "Ranger Deadeye",
+        "id": "CID_Outlander_ZonePistol"
+    },
+    {
+        "name": "Beetlejess",
+        "id": "CID_Outlander_ZonePistolHW"
+    },
+    {
+        "name": "Archaeolo-Jess",
+        "id": "CID_Outlander_ZoneHarvest_BlockBuster"
+    },
+    {
+        "name": "Trailblazer Jess",
+        "id": "CID_Outlander_XBOX"
+    },
+    {
+        "name": "Jade Assassin Sarah",
+        "id": "CID_Ninja_TEST"
+    },
+    {
+        "name": "Robo-Kevin",
+        "id": "CID_Outlander_040_AssembleK"
+    },
+    {
+        "name": "Lars",
+        "id": "CID_Constructor_040_Lars"
+    },
+    {
+        "name": "Jonesy",
+        "id": "CID_001_Mole_M_DefaultA"
+    },
+    {
+        "name": "Chaos Agent",
+        "id": "CID_Commando_045_Chaos_Agent"
+    },
+    {
+        "name": "Redline Ramirez",
+        "id": "CID_Commando_011_F_V1_RoadTrip"
+    },
+    {
+        "name": "Sergeant Jonesy",
+        "id": "CID_Commando_010"
+    },
+    {
+        "name": "Birthday Brigade Ramirez",
+        "id": "CID_Commando_010_Bday"
+    },
+    {
+        "name": "Colonel Wildcat",
+        "id": "CID_Commando_009"
+    },
+    {
+        "name": "Centurion Hawk",
+        "id": "CID_Commando_009_M"
+    },
+    {
+        "name": "Onslaught Headhunter",
+        "id": "CID_Commando_014"
+    },
+    {
+        "name": "Berserker Renegade",
+        "id": "CID_Commando_014_M"
+    },
+    {
+        "name": "Battle Hound Jonesy",
+        "id": "CID_Commando_013_StPatricks_M"
+    },
+    {
+        "name": "Highland Warrior Wildcat",
+        "id": "CID_Commando_013_StPatricks_F_V2"
+    },
+    {
+        "name": "Four Leaf Wildcat",
+        "id": "CID_Commando_013_StPatricks_F_V1"
+    },
+    {
+        "name": "Buckshot Raptor",
+        "id": "CID_Commando_011_M"
+    },
+    {
+        "name": "Rabbit Raider Jonesy",
+        "id": "CID_Commando_011_M_Easter"
+    },
+    {
+        "name": "Undercover Vaughn",
+        "id": "CID_Commando_016_M_V1"
+    },
+    {
+        "name": "Double Agent Evelynn",
+        "id": "CID_Commando_016_F_V1"
+    },
+    {
+        "name": "Bullet Storm Jonesy",
+        "id": "CID_Commando_015_M_V1"
+    },
+    {
+        "name": "Diecast Jonesy",
+        "id": "CID_Commando_015_M_V1_BlockBuster"
+    },
+    {
+        "name": "Chromium Ramirez",
+        "id": "CID_Commando_015_F_V1_BlockBuster"
+    },
+    {
+        "name": "Wukong",
+        "id": "CID_Commando_014_Wukong"
+    },
+    {
+        "name": "Sgt. Winter",
+        "id": "CID_Commando_024"
+    },
+    {
+        "name": "Jolly Headhunter",
+        "id": "CID_Commando_023"
+    },
+    {
+        "name": "Archetype Havoc",
+        "id": "CID_Commando_022"
+    },
+    {
+        "name": "Liteshow Spitfire",
+        "id": "CID_Commando_021"
+    },
+    {
+        "name": "Steel Wool Carlos",
+        "id": "CID_Commando_019"
+    },
+    {
+        "name": "Quickdraw Calamity",
+        "id": "CID_Commando_018"
+    },
+    {
+        "name": "First Shot Rio",
+        "id": "CID_Commando_017_F_V1"
+    },
+    {
+        "name": "Ted",
+        "id": "CID_Commando_034_ToyTInkerer"
+    },
+    {
+        "name": "Swamp Knight",
+        "id": "CID_Commando_033_HalloweenQuestSoldier"
+    },
+    {
+        "name": "JONESEE-BOT",
+        "id": "CID_Commando_032_HalloweenSoldier"
+    },
+    {
+        "name": "Breakbeat Wildcat",
+        "id": "CID_Commando_031_RadSoldier"
+    },
+    {
+        "name": "Extraterrestrial Rio",
+        "id": "CID_Commando_030_RetroSciFiSoldier"
+    },
+    {
+        "name": "Rex Jonesy",
+        "id": "CID_Commando_029_DinoSoldier"
+    },
+    {
+        "name": "Bunny Brawler Luna",
+        "id": "CID_Commando_028_BunnyBrawler"
+    },
+    {
+        "name": "Buccaneer Jonesy",
+        "id": "CID_Commando_027_PirateSoldier"
+    },
+    {
+        "name": "Fallen Love Ranger Jonesy",
+        "id": "CID_Commando_026"
+    },
+    {
+        "name": "Crackshot",
+        "id": "CID_Commando_025"
+    },
+    {
+        "name": "Commando Spitfire",
+        "id": "CID_Commando_GCGrenade"
+    },
+    {
+        "name": "Noir",
+        "id": "CID_Commando_044_Gumshoe_Dark"
+    },
+    {
+        "name": "Major Oswald",
+        "id": "CID_Commando_042_Major"
+    },
+    {
+        "name": "Sea Wolf Jonesy",
+        "id": "CID_Commando_041_Pirate_02_BR"
+    },
+    {
+        "name": "Buccaneer Ramirez",
+        "id": "CID_Commando_040_Pirate_BR"
+    },
+    {
+        "name": "Tricera Ops Ramirez",
+        "id": "CID_Commando_039_Pajama_Party"
+    },
+    {
+        "name": "Powerhouse",
+        "id": "CID_Commando_038_Shock_Wave"
+    },
+    {
+        "name": "Dashing Hawk",
+        "id": "CID_Commando_035_Caped_Valentine"
+    },
+    {
+        "name": "Star-Spangled Headhunter",
+        "id": "CID_Commando_GunTough_F_4thJuly"
+    },
+    {
+        "name": "Urban Assault Headhunter",
+        "id": "CID_Commando_GunHeadshot"
+    },
+    {
+        "name": "Rogue Agent Jonesy",
+        "id": "CID_Commando_GunHeadShot_Starter_M"
+    },
+    {
+        "name": "Tactical Assault Sledgehammer",
+        "id": "CID_Commando_GunHeadshot_M_V1_RoadTrip"
+    },
+    {
+        "name": "Master Grenadier Ramirez",
+        "id": "CID_Commando_GrenadeMaster"
+    },
+    {
+        "name": "Rescue Trooper Havoc",
+        "id": "CID_Commando_GrenadeGun_M_T"
+    },
+    {
+        "name": "Sub Commando Jonesy",
+        "id": "CID_Commando_GCGrenade_T"
+    },
+    {
+        "name": "Commando Ramirez",
+        "id": "CID_Commando_Sony"
+    },
+    {
+        "name": "Commando Renegade",
+        "id": "CID_Commando_XBOX"
+    },
+    {
+        "name": "Shock Trooper Renegade",
+        "id": "CID_Commando_ShockDamage"
+    },
+    {
+        "name": "Carbide",
+        "id": "CID_Commando_Myth03"
+    },
+    {
+        "name": "Raven",
+        "id": "CID_Commando_Myth02"
+    },
+    {
+        "name": "Love Ranger Jonesy",
+        "id": "CID_Commando_GunTough_Valentine"
+    },
+    {
+        "name": "Birthday Brigade Jonesy",
+        "id": "CID_Commando_GunTough_RS01"
+    },
+    {
+        "name": "Stars and Stripes Jonesy",
+        "id": "CID_Commando_GunTough_M_4thJuly"
+    },
+    {
+        "name": "Power B.A.S.E. Knox",
+        "id": "CID_Constructor_008"
+    },
+    {
+        "name": "Controller Harper",
+        "id": "CID_Constructor_007"
+    },
+    {
+        "name": "Kyle the 13th",
+        "id": "CID_Constructor_007HW"
+    },
+    {
+        "name": "Kate Bishop",
+        "id": "CID_A_331_Athena_Commando_F_Keen_B4LF5"
+    },
+    {
+        "name": "Clint Barton",
+        "id": "CID_A_330_Athena_Commando_M_Keen_2DTXM"
+    },
+    {
+        "name": "Green Goblin",
+        "id": "CID_A_328_Athena_Commando_M_Foe_S31ZA"
+    },
+    {
+        "name": "Arcane Vi",
+        "id": "CID_A_329_Athena_Commando_F_Uproar_I5N5Z"
+    },
+    {
+        "name": "Aftermath",
+        "id": "CID_A_327_Athena_Commando_M_SkullPunk_9QTQI"
+    }
+]
